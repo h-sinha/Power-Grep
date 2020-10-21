@@ -41,10 +41,8 @@ public class Sequential {
   }
 
   /**
-   * Builds up a table of longest "borders" for each prefix of the pattern to find. This table is
-   * stored internally and aids in implementation of the Knuth-Moore-Pratt string search.
-   * <p>
-   * For more information, see: https://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm.
+   * Builds up a table of lps. This table is stored internally and aids in implementation of the
+   * Knuth-Moore-Pratt string search.
    */
   protected static void preProcess(byte[] pattern, int[] lps) {
     int j = 0;
