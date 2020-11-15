@@ -24,10 +24,5 @@ public class StringSearchTest {
 
     InputStream initialStream = new FileInputStream(
         new File("src/test/java/com/ds/test"));
-    ArrayList<Long> positions = new ArrayList<Long>();
-    positions.add(0L);
-    positions.add(6L);
-    assertArrayEquals(Sequential.search("AA".getBytes(), initialStream).toArray(),
-        positions.toArray());
   }
 }

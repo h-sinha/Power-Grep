@@ -13,7 +13,7 @@ public class Sequential {
    * @return ArrayList containing positions where pattern is found.
    * @throws IOException
    */
-  public static ArrayList<Long> search(byte[] pattern_, InputStream stream) throws IOException {
+  public static long search(byte[] pattern_, InputStream stream) throws IOException {
     byte[] pattern = Arrays.copyOf(pattern_, pattern_.length);
     int[] lps = new int[pattern_.length];
     preProcess(pattern, lps);
@@ -22,7 +22,7 @@ public class Sequential {
 
     int b;
     int patternIter = 0;
-    ArrayList<Long> positions = new java.util.ArrayList<Long>();
+    long counter = 0;
     while ((b = stream.read()) != -1) {
       offset++;
       if ((byte) b == pattern[patternIter]) {
@@ -33,11 +33,11 @@ public class Sequential {
         }
       }
       if (patternIter == pattern_.length) {
-        positions.add(offset - pattern_.length);
+        counter++;
         patternIter = lps[patternIter - 1];
       }
     }
-    return positions;
+    return counter;
   }
 
   /**
