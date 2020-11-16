@@ -1,9 +1,13 @@
 package com.ds;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.util.ToolRunner;
 
 public class Sequential {
 
@@ -13,9 +17,11 @@ public class Sequential {
    * @return ArrayList containing positions where pattern is found.
    * @throws IOException
    */
-  public static long search(byte[] pattern_, InputStream stream) throws IOException {
-    byte[] pattern = Arrays.copyOf(pattern_, pattern_.length);
-    int[] lps = new int[pattern_.length];
+  public static long search(String pattern_, String path) throws IOException {
+    InputStream stream = new FileInputStream(
+        new File(path));
+    byte[] pattern = pattern_.getBytes();
+    int[] lps = new int[pattern_.length()];
     preProcess(pattern, lps);
 
     long offset = 0;
@@ -28,11 +34,15 @@ public class Sequential {
       if ((byte) b == pattern[patternIter]) {
         patternIter++;
       } else {
-        while (patternIter != 0 && (byte) b != pattern_[patternIter]) {
+        while (patternIter != 0 && (byte) b != pattern[patternIter]) {
           patternIter = lps[patternIter - 1];
         }
+        if (b == pattern[patternIter]) {
+          patternIter++;
+        }
+
       }
-      if (patternIter == pattern_.length) {
+      if (patternIter == pattern_.length()) {
         counter++;
         patternIter = lps[patternIter - 1];
       }
@@ -55,15 +65,18 @@ public class Sequential {
         if (j == 0) {
           lps[i] = 0;
         } else {
-          while (j > 0 && pattern[i] != pattern[j]) {
+          if (j > 0) {
             j = lps[j - 1];
+            i--;
+          } else {
+            lps[i] = 0;
           }
-          if (pattern[i] == pattern[j]) {
-            j++;
-          }
-          lps[i] = j;
         }
       }
     }
+  }
+
+  public static void main(String[] args) throws Exception {
+    System.out.println(search(args[2], args[0]) + "\t" + args[2]);
   }
 }

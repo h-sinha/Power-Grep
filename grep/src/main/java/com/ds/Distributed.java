@@ -26,10 +26,11 @@ import org.apache.hadoop.util.ToolRunner;
 
 public class Distributed extends Configured implements Tool {
 
+  // TODO: Handle folder preprocess
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
     // TODO: Determing numSplit value
-    long numSplits = 3;
+    long numSplits = 1;
     long sourceSize = raf.length();
     long bytesPerSplit = sourceSize / numSplits;
     long remainingBytes = sourceSize % numSplits;
@@ -62,18 +63,27 @@ public class Distributed extends Configured implements Tool {
   static void readWrite(RandomAccessFile raf, BufferedOutputStream bw, long numBytes,
       long pattern_length)
       throws IOException {
-    byte[] buf = new byte[(int) (numBytes - pattern_length + 1)];
-    byte[] buf_pref = new byte[(int) pattern_length - 1];
+    int val;
+    try {
+      byte[] buf_pref = new byte[(int) pattern_length - 1];
+      val = raf.read(buf_pref);
+      if (val != -1) {
+        bw.write(buf_pref);
+        bw.write((byte) '\n');
+        bw.write(buf_pref);
+      }
+    }catch (Exception e){
 
-    int val = raf.read(buf_pref);
-    if (val != -1) {
-      bw.write(buf_pref);
-      bw.write((byte) '\n');
-      bw.write(buf_pref);
     }
-    val = raf.read(buf);
-    if (val != -1) {
-      bw.write(buf);
+    try {
+      byte[] buf = new byte[(int) (numBytes - pattern_length + 1)];
+      val = raf.read(buf);
+      if (val != -1) {
+        bw.write(buf);
+      }
+    }
+    catch (Exception e){
+
     }
   }
 
@@ -134,7 +144,7 @@ public class Distributed extends Configured implements Tool {
       sortJob.waitForCompletion(true);
     } finally {
       FileSystem.get(conf).delete(tempDir, true);
-      File f= new File(args[0]);
+      File f = new File(args[0]);
       f.delete();
     }
     return 0;
