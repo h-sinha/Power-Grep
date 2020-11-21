@@ -13,6 +13,7 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
 import org.apache.hadoop.mapreduce.lib.map.InverseMapper;
@@ -26,11 +27,78 @@ import org.apache.hadoop.util.ToolRunner;
 
 public class Distributed extends Configured implements Tool {
 
+  protected static void preProcess_string(byte[] pattern, int[] lps) {
+    int j = 0;
+    lps[0] = 0;
+    for (int i = 1; i < pattern.length; i++) {
+      if (pattern[i] == pattern[j]) {
+        j++;
+        lps[i] = j;
+      } else {
+        if (j == 0) {
+          lps[i] = 0;
+        } else {
+          if (j > 0) {
+            j = lps[j - 1];
+            i--;
+          } else {
+            lps[i] = 0;
+          }
+        }
+      }
+    }
+  }
+
+  public static class GMapper<K> extends
+      Mapper<K, Text, Text, LongWritable> {
+
+    public static String PATTERN = "mapreduce.mapper.regex";
+    public static String GROUP = "mapreduce.mapper.regexmapper..group";
+    private byte[] pattern;
+    private int[] lps;
+    String _pattern;
+
+    public void setup(Context context) {
+      Configuration conf = context.getConfiguration();
+      pattern = conf.get(PATTERN).getBytes();
+      _pattern = conf.get(PATTERN);
+      lps = new int[pattern.length];
+      preProcess_string(pattern, lps);
+    }
+
+    public void map(K key, Text value, Context context) throws IOException, InterruptedException {
+      byte[] line = value.toString().getBytes();
+      byte b;
+      int patternIter = 0, idx = 0;
+      long counter = 0;
+      while (idx < line.length) {
+        b = line[idx];
+        idx++;
+        if (b == pattern[patternIter]) {
+          patternIter++;
+        } else {
+          while (patternIter != 0 && b != pattern[patternIter]) {
+            patternIter = lps[patternIter - 1];
+          }
+          if (b == pattern[patternIter]) {
+            patternIter++;
+          }
+
+        }
+        if (patternIter == pattern.length) {
+          counter++;
+          patternIter = lps[patternIter - 1];
+        }
+      }
+      context.write(new Text(_pattern), new LongWritable(counter));
+    }
+  }
+
   // TODO: Handle folder preprocess
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
     // TODO: Determing numSplit value
-    long numSplits = 1;
+    long numSplits = 2;
     long sourceSize = raf.length();
     long bytesPerSplit = sourceSize / numSplits;
     long remainingBytes = sourceSize % numSplits;
@@ -72,7 +140,7 @@ public class Distributed extends Configured implements Tool {
         bw.write((byte) '\n');
         bw.write(buf_pref);
       }
-    }catch (Exception e){
+    } catch (Exception e) {
 
     }
     try {
@@ -81,8 +149,7 @@ public class Distributed extends Configured implements Tool {
       if (val != -1) {
         bw.write(buf);
       }
-    }
-    catch (Exception e){
+    } catch (Exception e) {
 
     }
   }
@@ -115,7 +182,7 @@ public class Distributed extends Configured implements Tool {
 
       FileInputFormat.setInputPaths(grepJob, args[0]);
 
-      grepJob.setMapperClass(RegexMapper.class);
+      grepJob.setMapperClass(GMapper.class);
 
       grepJob.setCombinerClass(LongSumReducer.class);
       grepJob.setReducerClass(LongSumReducer.class);
@@ -136,9 +203,9 @@ public class Distributed extends Configured implements Tool {
 
       sortJob.setMapperClass(InverseMapper.class);
 
-      sortJob.setNumReduceTasks(1);                 // write a single file
+      sortJob.setNumReduceTasks(1);
       FileOutputFormat.setOutputPath(sortJob, new Path(args[1]));
-      sortJob.setSortComparatorClass(          // sort by decreasing freq
+      sortJob.setSortComparatorClass(
           LongWritable.DecreasingComparator.class);
 
       sortJob.waitForCompletion(true);
