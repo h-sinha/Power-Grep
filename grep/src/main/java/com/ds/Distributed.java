@@ -78,8 +78,12 @@ public class Distributed extends Configured implements Tool {
       byte b;
       int patternIter = 0, idx = 0;
       long counter = 0;
-      long offset = (Long.parseLong(key.toString()));
-      long lineNumber = (Long.parseLong(key.toString())) / (bytesPerSplit + pattern.length);
+      long offset = Long.parseLong(key.toString());
+      if (Long.parseLong(key.toString()) <= pattern.length + 1) {
+        return;
+      }
+      long lineNumber =
+          (Long.parseLong(key.toString()) - pattern.length - 1) / (bytesPerSplit + pattern.length);
       while (idx < line.length) {
         offset++;
         b = line[idx];
@@ -98,8 +102,6 @@ public class Distributed extends Configured implements Tool {
         if (patternIter == pattern.length) {
           counter++;
           posWriter.write(offset - pattern.length - (lineNumber + 1) * pattern.length + " ");
-//          System.out.println(offset + " "+ pattern.length + " " +key + " " + value.toString().substring(0, 10) + " " + value.toString()
-//              .substring((int) (offset - pattern.length - 10L), (int) (offset + 10L)));
           patternIter = lps[patternIter - 1];
         }
       }
@@ -111,30 +113,43 @@ public class Distributed extends Configured implements Tool {
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
     // TODO: Determing numSplit value
-    numSplits = 1;
+    numSplits = 3;
     sourceSize = raf.length();
     bytesPerSplit = sourceSize / numSplits;
     remainingBytes = sourceSize % numSplits;
 
     // TODO: max buffer size flushed at a time
     int maxReadBufferSize = 8 * 1024; //8KB
+    int flag = 0;
     BufferedOutputStream bw = new BufferedOutputStream(new FileOutputStream(path + "1234"));
     for (int destIx = 1; destIx <= numSplits; destIx++) {
       if (bytesPerSplit > maxReadBufferSize) {
         long numReads = bytesPerSplit / maxReadBufferSize;
         long numRemainingRead = bytesPerSplit % maxReadBufferSize;
         for (int i = 0; i < numReads; i++) {
-          readWrite(raf, bw, maxReadBufferSize, pattern_length);
+          if (i == 0) {
+            flag = 1;
+          } else {
+            flag = 0;
+          }
+          readWrite(raf, bw, maxReadBufferSize, pattern_length, flag);
         }
         if (numRemainingRead > 0) {
-          readWrite(raf, bw, numRemainingRead, pattern_length);
+          if (numReads == 0) {
+            flag = 1;
+          } else {
+            flag = 0;
+          }
+          readWrite(raf, bw, numRemainingRead, pattern_length, flag);
         }
       } else {
-        readWrite(raf, bw, bytesPerSplit, pattern_length);
+        flag = 1;
+        readWrite(raf, bw, bytesPerSplit, pattern_length, flag);
       }
     }
     if (remainingBytes > 0) {
-      readWrite(raf, bw, remainingBytes, pattern_length);
+      flag = 1;
+      readWrite(raf, bw, remainingBytes, pattern_length, flag);
     }
     bw.close();
     raf.close();
@@ -142,19 +157,21 @@ public class Distributed extends Configured implements Tool {
   }
 
   static void readWrite(RandomAccessFile raf, BufferedOutputStream bw, long numBytes,
-      long pattern_length)
+      long pattern_length, int flag)
       throws IOException {
     int val;
-    try {
-      byte[] buf_pref = new byte[(int) pattern_length - 1];
-      val = raf.read(buf_pref);
-      if (val != -1) {
-        bw.write(buf_pref);
-        bw.write((byte) '\n');
-        bw.write(buf_pref);
-      }
-    } catch (Exception e) {
+    if (flag > 0) {
+      try {
+        byte[] buf_pref = new byte[(int) pattern_length - 1];
+        val = raf.read(buf_pref);
+        if (val != -1) {
+          bw.write(buf_pref);
+          bw.write((byte) '\n');
+          bw.write(buf_pref);
+        }
+      } catch (Exception e) {
 
+      }
     }
     try {
       byte[] buf = new byte[(int) (numBytes - pattern_length + 1)];
@@ -229,7 +246,7 @@ public class Distributed extends Configured implements Tool {
     } finally {
       FileSystem.get(conf).delete(tempDir, true);
       File f = new File(args[0]);
-//      f.delete();
+      f.delete();
       posWriter.close();
     }
     return 0;
