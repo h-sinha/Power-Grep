@@ -1,10 +1,14 @@
 package com.ds;
 
+import static java.lang.StrictMath.max;
+
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.RandomAccessFile;
+import java.util.ArrayList;
 import java.util.Random;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -26,6 +30,9 @@ import org.apache.hadoop.util.ToolRunner;
 
 
 public class Distributed extends Configured implements Tool {
+
+  static long numSplits, sourceSize, bytesPerSplit, remainingBytes;
+  static FileWriter posWriter;
 
   protected static void preProcess_string(byte[] pattern, int[] lps) {
     int j = 0;
@@ -71,7 +78,10 @@ public class Distributed extends Configured implements Tool {
       byte b;
       int patternIter = 0, idx = 0;
       long counter = 0;
+      long offset = (Long.parseLong(key.toString()));
+      long lineNumber = (Long.parseLong(key.toString())) / (bytesPerSplit + pattern.length);
       while (idx < line.length) {
+        offset++;
         b = line[idx];
         idx++;
         if (b == pattern[patternIter]) {
@@ -87,6 +97,9 @@ public class Distributed extends Configured implements Tool {
         }
         if (patternIter == pattern.length) {
           counter++;
+          posWriter.write(offset - pattern.length - (lineNumber + 1) * pattern.length + " ");
+//          System.out.println(offset + " "+ pattern.length + " " +key + " " + value.toString().substring(0, 10) + " " + value.toString()
+//              .substring((int) (offset - pattern.length - 10L), (int) (offset + 10L)));
           patternIter = lps[patternIter - 1];
         }
       }
@@ -98,10 +111,10 @@ public class Distributed extends Configured implements Tool {
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
     // TODO: Determing numSplit value
-    long numSplits = 2;
-    long sourceSize = raf.length();
-    long bytesPerSplit = sourceSize / numSplits;
-    long remainingBytes = sourceSize % numSplits;
+    numSplits = 1;
+    sourceSize = raf.length();
+    bytesPerSplit = sourceSize / numSplits;
+    remainingBytes = sourceSize % numSplits;
 
     // TODO: max buffer size flushed at a time
     int maxReadBufferSize = 8 * 1024; //8KB
@@ -163,6 +176,10 @@ public class Distributed extends Configured implements Tool {
 
   @Override
   public int run(String[] args) throws Exception {
+    File pos = new File("dis-positions.txt");
+    pos.createNewFile();
+    posWriter = new FileWriter("dis-positions.txt");
+
     Path tempDir =
         new Path("grep-temp-" +
             Integer.toString(new Random().nextInt(Integer.MAX_VALUE)));
@@ -212,7 +229,8 @@ public class Distributed extends Configured implements Tool {
     } finally {
       FileSystem.get(conf).delete(tempDir, true);
       File f = new File(args[0]);
-      f.delete();
+//      f.delete();
+      posWriter.close();
     }
     return 0;
   }

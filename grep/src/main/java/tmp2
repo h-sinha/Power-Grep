@@ -1,0 +1,3154 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kim Hyeon-Woo</title>
+    <ns>0</ns>
+    <id>42567205</id>
+    <redirect title="Kim Hyeon-woo" />
+    <revision>
+      <id>605512342</id>
+      <timestamp>2014-04-23T21:02:00Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Hyeon-Woo]] to [[Kim Hyeon-woo]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Hyeon-woo]]
+{{R from move}}</text>
+      <sha1>16kop2unyres98bcaxkfj1674q7xcfd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lee Se-Yeol</title>
+    <ns>0</ns>
+    <id>42567208</id>
+    <redirect title="Lee Se-yeol" />
+    <revision>
+      <id>605512408</id>
+      <timestamp>2014-04-23T21:02:32Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Lee Se-Yeol]] to [[Lee Se-yeol]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Lee Se-yeol]]
+{{R from move}}</text>
+      <sha1>6d40t9mkghnknpebayjf6uhmgswkp0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marko Virtanen</title>
+    <ns>0</ns>
+    <id>42567219</id>
+    <revision>
+      <id>853776442</id>
+      <parentid>821144454</parentid>
+      <timestamp>2018-08-06T22:47:07Z</timestamp>
+      <contributor>
+        <username>Joeykai</username>
+        <id>14841472</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */clean up, replaced: {{Finland-icehockey-bio-stub}} → {{Finland-icehockey-player-stub}} using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{BLP sources|date=July 2014}}
+{{Use mdy dates|date=April 2014}}
+{{Infobox ice hockey player
+| name = Marko Virtanen
+| image = 
+| caption =
+| image_size = 225px
+| played_for = '''''[[SM-liiga]]'''''&lt;br&gt;[[JYP Jyväskylä]]&lt;br&gt;'''''[[Swedish Hockey League|Elitserien]]'''''&lt;br&gt;[[Färjestad BK]]&lt;br&gt;[[Södertälje SK]]
+| position = [[Winger (ice hockey)|Right Wing]]
+| height_ft = 5
+| height_in = 10
+| weight_lb = 181
+| shoots = Left
+| birth_date = {{birth date and age|1968|12|10}}
+| birth_place = [[Jyväskylä]], [[Finland]]
+| draft = Undrafted
+| career_start = 1988
+| career_end = 2000
+}}
+'''Marko Virtanen''' (born December 10, 1968) is a [[Finland|Finnish]] former professional [[ice hockey]] player. He is currently the head coach of [[JYP Jyväskylä]] in the Finnish [[Liiga]].
+
+Virtanen assumed the position of head coach for JYP with the [[2013–14 Liiga season]].&lt;ref name=&quot;jypliiga&quot;&gt;{{cite web | url=http://www.jypliiga.fi/uutiset/marko-virtanen-jypin-paavalmentajaksi-2013-2015 | title=Marko Virtanen JYPin päävalmentajaksi 2013 – 2015 | publisher=Jypliiga | accessdate=25 July 2014 | deadurl=yes | archiveurl=https://web.archive.org/web/20150316112244/http://www.jypliiga.fi/uutiset/marko-virtanen-jypin-paavalmentajaksi-2013-2015 | archivedate=March 16, 2015 | df=mdy-all }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Eliteprospects}}
+*{{hockeydb|34132|Marko Virtanen}}
+
+{{DEFAULTSORT:Virtanen, Marko}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Färjestad BK players]]
+[[Category:Finnish ice hockey coaches]]
+[[Category:Finnish ice hockey players]]
+[[Category:JYP Jyväskylä players]]
+[[Category:Södertälje SK players]]
+
+
+{{Finland-icehockey-player-stub}}</text>
+      <sha1>54nhqn193dp90dnwvfv6ye46j26ahrs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>João de Oliveira</title>
+    <ns>0</ns>
+    <id>42567221</id>
+    <redirect title="Filhão" />
+    <revision>
+      <id>605512554</id>
+      <timestamp>2014-04-23T21:03:26Z</timestamp>
+      <contributor>
+        <username>Lglukgl</username>
+        <id>17429104</id>
+      </contributor>
+      <comment>Lglukgl moved page [[João de Oliveira]] to [[Filhão]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Filhão]]
+{{R from move}}</text>
+      <sha1>g0a16mo20ljl3cpx5zrwlqoew1936we</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:David and Goliath -1700s.jpg</title>
+    <ns>6</ns>
+    <id>42567222</id>
+    <revision>
+      <id>873275566</id>
+      <parentid>860382997</parentid>
+      <timestamp>2018-12-12T05:11:03Z</timestamp>
+      <contributor>
+        <username>MarnetteD</username>
+        <id>220924</id>
+      </contributor>
+      <comment>rmv per [[Wikipedia:Templates for discussion/Log/2018 December 2#Template:Duplicate to Commons]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{information
+|description    = Painting, &quot;David Giving Thanks to God After the Death of Goliath.&quot; See also: [http://www.biblegateway.com/passage/?search=2%20Samuel%2022&amp;version=NIV &quot;David’s Song of Praise&quot;]
+|date           = 18th century
+|source         = [http://necspenecmetu.tumblr.com/post/46714644681/attributed-to-charles-errard-the-younger-david Necspenecmetu.tumblr.com] 
+|author         = attributed to [[Charles Errard the Younger]]
+|Permission     =  
+}}
+==License==
+{{PD-old}}
+{{Keep local}}
+[[Category:David]]
+{{Orphan image}}</text>
+      <sha1>ead2702jck178nlo1u8y6vt8jfuzeie</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2014–15 Northern Illinois Huskies men's basketball team</title>
+    <ns>0</ns>
+    <id>42567223</id>
+    <revision>
+      <id>893359954</id>
+      <parentid>799893472</parentid>
+      <timestamp>2019-04-20T20:52:54Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta14)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox NCAA team season
+|Mode              = Basketball
+|Year              = 2014–15
+|Prev year         = 2013–14
+|Next year         = 2015–16
+|Team              = Northern Illinois Huskies
+|Image             = Northern Illinois Huskies basketball wordmark.svg
+|ImageSize         = 250
+|Conference        = Mid-American Conference
+|Division          = West Division
+|ShortConference   = MAC
+|CoachRank         =
+|APRank            =
+|Record            = 14–16
+|ConfRecord        = 8–10
+|HeadCoach         = [[Mark Montgomery (basketball)|Mark Montgomery]]
+|HCYear            = 4th
+|AsstCoach1        = Jon Borovich
+|AsstCoach2        = Lou Dawkins
+|AsstCoach3        = Jason Larson
+|AsstCoach4        =
+|StadiumArena      = [[Convocation Center (Northern Illinois University)|Convocation Center]]
+|Champion          = 
+|BowlTourney       =
+|BowlTourneyResult =
+}}
+{{2014–15 Mid-American Conference men's basketball standings}}
+The '''2014–15 Northern Illinois Huskies men's basketball team''' represented [[Northern Illinois University]] during the [[2014–15 NCAA Division I men's basketball season]]. The Huskies, led by fourth year head coach [[Mark Montgomery (basketball)|Mark Montgomery]], played their home games at the [[Convocation Center (Northern Illinois University)|Convocation Center]] as members of the West Division of the [[Mid-American Conference]]. They finished the season 14–16, 8–10 in MAC play to finish in a tie for fourth place in the West Division. They lost in the first round of the [[2015 MAC Men's Basketball Tournament|MAC Tournament]] to Akron.
+
+==Roster==
+{{CBB roster/Header|year=2014|team=Northern Illinois Huskies|teamcolors=y|high_school=yes}}
+{{CBB roster/Player|first=Pete|last=Rakocevic|num=0|pos=C|ft=6|in=11|lbs=245|class=sr|rs=y|home=[[Chicago|Chicago, IL]]|high_school=[[Wilbraham &amp; Monson Academy]]&lt;br&gt;[[California State University, Sacramento|Sacramento State]]}}
+{{CBB roster/Player|first=Aaron|last=Armstead|num=2|pos=G|ft=6|in=4|lbs=195|class=sr|rs=|home=[[Chicago|Chicago, IL]]|high_school=[[Hales Franciscan High School|Hales Franciscan HS]]&lt;br&gt;[[San Jose City College]]}}
+{{CBB roster/Player|first=Dontel|last=Highsmith|num=4|pos=G|ft=6|in=2|lbs=190|class=so|rs=|home=[[Dowagiac, Michigan|Dowagiac, MI]]|high_school=Dowagiac HS}}
+{{CBB roster/Player|first=Travon|last=Baker|num=5|pos=G|ft=5|in=10|lbs=160|class=jr|rs=|home=[[Detroit|Detroit, MI]]|high_school=Detroit Consortium}}
+{{CBB roster/Player|first=Darrell|last=Bowie|num=10|pos=F|ft=6|in=6|lbs=220|class=jr|rs=|home=[[Milwaukee|Milwaukee, WI]]|high_school=La Jolla Prep}}
+{{CBB roster/Player|first=Chukwuemeka|last=Iroegbu|num=11|pos=G|ft=6|in=4|lbs=205|class=jr|rs=y|home=[[Elk Grove, California|Elk Grove, CA]]|high_school=[[Franklin High School (Elk Grove, California)|Franklin HS]]&lt;br&gt;[[Washington State University|Washington State]]}}
+{{CBB roster/Player|first=Jordan|last=Thomas|num=12|pos=G|ft=5|in=11|lbs=185|class=fr|rs=|home=[[Northfield, Illinois|Northfield, IL]]|high_school=[[Menomonee Falls High School|Menomonee Falls (WI)]]}}
+{{CBB roster/Player|first=Kevin|last=Gray|num=13|pos=F|ft=6|in=8|lbs=225|class=sr|rs=|home=[[Chicago|Chicago, IL]]|high_school=[[Gwendolyn Brooks College Preparatory Academy|Brooks Academy]]}}
+{{CBB roster/Player|first=Keith|last=Gray|num=21|pos=F|ft=6|in=8|lbs=225|class=jr|rs=y|home=[[Chicago|Chicago, IL]]|high_school=[[Gwendolyn Brooks College Preparatory Academy|Brooks Academy]]}}
+{{CBB roster/Player|first=Aaric|last=Armstead|num=23|pos=G|ft=6|in=5|lbs=190|class=so|rs=|home=[[Chicago|Chicago, IL]]|high_school=La Jolla Prep}}
+{{CBB roster/Player|first=Jay|last=DeHaan|num=25|pos=G|ft=6|in=2|lbs=175|class=fr|rs=|home=[[Naperville|Naperville, IL]]|high_school=[[Waubonsie Valley|Waubonsie Valley HS]]}}
+{{CBB roster/Player|first=Anthony|last=Johnson|num=33|pos=G|ft=6|in=3|lbs=190|class=sr|rs=y|home=[[Chicago|Chicago, IL]]|high_school=[[Whitney M. Young Magnet High School|Whitney Young HS]]&lt;br&gt;[[Purdue University|Purdue]]}}
+{{CBB roster/Player|first=Marin|last=Maric|num=34|pos=C|ft=6|in=10|lbs=240|class=so|rs=|home=[[Split, Croatia]]|high_school=[[La Lumiere School]]}}
+{{CBB roster/Player|first=Jordan|last=Threloff|num=42|pos=C|ft=6|in=9|lbs=255|class=sr|rs=y|home=[[DeKalb, Illinois|DeKalb, IL]]|high_school=[[DeKalb High School (Illinois)|DeKalb HS]]&lt;br&gt;[[Illinois State University|Illinois State]]}}
+{{CBB roster/Player|first=Michael|last=Orris|num=55|pos=G|ft=6|in=2|lbs=195|class=so|rs=y|home=[[Crete, Illinois|Crete, IL]]|high_school=[[Crete-Monee High School|Crete-Monee HS]]&lt;br&gt;[[Kansas State University|Kansas State]]}}
+{{CBB roster/Footer
+|head_coach=
+* [[Mark Montgomery (basketball)|Mark Montgomery]] ({{college|Michigan State}})
+|asst_coach=
+* Jon Borovich ({{college|Central Michigan}})
+* Lou Dawkins ({{college|Tulsa}})
+* Jason Larson ({{college|Grand Valley State}})
+}}
+
+==Schedule==
+{{CBB schedule start|time=|ranklink=[[2014-15 NCAA Division I men's basketball rankings]]|rankyear=2014|rank=no|tv=|record=yes|attend=yes}}
+|-
+!colspan=9 style=&quot;background:#000000; color:#cc1122;&quot; |  Exhibition
+{{CBB schedule entry
+| date         = 11/08/2014
+| time         = 5:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      = 
+| rank         = no
+| opponent     = [[Roosevelt University|Roosevelt]]
+| opprank      = 
+| site_stadium = [[Convocation Center (Northern Illinois University)|Convocation Center]]
+| site_cityst  = [[DeKalb, Illinois|DeKalb, IL]]
+| attend       = 1,242
+| tv           = 
+| score        = 71–44
+| overtime     =
+| record       = 
+}}
+|-
+!colspan=9 style=&quot;background:#000000; color:#cc1122;&quot; | Regular Season
+{{CBB schedule entry
+| date         = 11/15/2014
+| time         = 3:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[Aurora University|Aurora]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = [[ESPN3]]
+| score        = 86-56
+| overtime     =
+| record       = 1-0
+| attend       = 981
+}}
+{{CBB schedule entry
+| date         = 11/20/2014
+| time         = 8:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Idaho Vandals men's basketball team|Idaho]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 78–67
+| overtime     =
+| record       = 2–0
+| attend       = 1,003
+}}
+{{CBB schedule entry
+| date         = 11/26/2014
+| time         = 7:30 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Iowa Hawkeyes men's basketball team|Iowa]]
+| opprank      =
+| site_stadium = [[Carver-Hawkeye Arena]]
+| site_cityst  = [[Iowa City, IA]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 49–70
+| overtime     =
+| attend       = 14,357
+| record       = 2–1
+}}
+{{CBB schedule entry
+| date         = 11/30/2014
+| time         = 1:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Maine Black Bears men's basketball team|Maine]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 61–56
+| overtime     =
+| attend       = 716
+| record       = 3–1
+}}
+{{CBB schedule entry
+| date         = 12/02/2014
+| time         = 8:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 DePaul Blue Demons men's basketball team|DePaul]]
+| opprank      =
+| site_stadium = [[Allstate Arena]]
+| site_cityst  = [[Rosemont, Illinois|Rosemont, IL]]
+| gamename     = 
+| tv           = [[Fox Sports 1|FS1]]
+| score        = 67–78
+| overtime     =
+| attend       = 5,457
+| record       = 3–2
+}}
+{{CBB schedule entry
+| date         = 12/13/2014
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Eastern Illinois Panthers men's basketball team|Eastern Illinois]]
+| opprank      =
+| site_stadium = [[Lantz Arena]]
+| site_cityst  = [[Charleston, Illinois|Charleston, IL]]
+| gamename     = 
+| tv           = 
+| score        = 55–59
+| overtime     =
+| attend       = 2,044
+| record       = 3–3
+}}
+{{CBB schedule entry
+| date         = 12/16/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 71–64
+| overtime     =
+| attend       = 680
+| record       = 4–3
+}}
+{{CBB schedule entry
+| date         = 12/19/2014
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Dartmouth Big Green men's basketball team|Dartmouth]]
+| opprank      =
+| site_stadium = [[Leede Arena]]
+| site_cityst  = [[Hanover, New Hampshire|Hanover, NH]]
+| gamename     = 
+| tv           = 
+| score        = 55–58
+| overtime     = OT
+| attend       = 701
+| record       = 4–4
+}}
+{{CBB schedule entry
+| date         = 12/22/2014
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =
+| away         = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+| opprank      = 16
+| site_stadium = [[Edmund P. Joyce Center]]
+| site_cityst  = [[South Bend, Indiana|South Bend, IN]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 66–91
+| overtime     = 
+| attend       = 7,471
+| record       = 4–5
+}}
+{{CBB schedule entry
+| date         = 12/29/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Hampton Pirates men's basketball team|Hampton]]
+| opprank      = 
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 83–51
+| overtime     = 
+| attend       = 802
+| record       = 5–5
+}}
+{{CBB schedule entry
+| date         = 1/02/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| neutral      = 
+| rank         = no
+| opponent     = [[2014–15 UC Riverside Highlanders men's basketball team|UC Riverside]]
+| opprank      = 
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 72–67
+| overtime     = OT
+| attend       = 873
+| record       = 6–5
+}}
+{{CBB schedule entry
+| date         = 1/07/2015
+| time         = 6:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Ohio Bobcats men's basketball team|Ohio]]
+| opprank      =
+| site_stadium = [[Convocation Center (Ohio University)|Convocation Center]]
+| site_cityst  = [[Athens, Ohio|Athens, OH]]
+| gamename     = 
+| tv           = 
+| score        = 70–60
+| overtime     =
+| attend       = 5,743
+| record       = 7–5 (1–0)
+}}
+{{CBB schedule entry
+| date         = 1/10/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Kent State Golden Flashes men's basketball team|Kent State]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 65–67
+| overtime     =
+| attend       = 1,058
+| record       = 7–6 (1–1)
+}}
+{{CBB schedule entry
+| date         = 1/14/2015
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Buffalo Bulls men's basketball team|Buffalo]]
+| opprank      =
+| site_stadium = [[Alumni Arena (University at Buffalo)|Alumni Arena]]
+| site_cityst  = [[Amherst, New York|Amherst, NY]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 63–82
+| overtime     =
+| attend       = 2,258
+| record       = 7–7 (1–2)
+}}
+{{CBB schedule entry
+| date         = 1/17/2015
+| time         = 11:00 AM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Eastern Michigan Eagles men's basketball team|Eastern Michigan]]
+| opprank      =
+| site_stadium = [[Convocation Center (Eastern Michigan University)|Convocation Center]]
+| site_cityst  = [[Ypsilanti, Michigan|Ypsilanti, MI]]
+| gamename     = 
+| tv           = 
+| score        = 46–54
+| overtime     =
+| attend       = 786
+| record       = 7–8 (1–3)
+}}
+{{CBB schedule entry
+| date         = 1/21/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Akron Zips men's basketball team|Akron]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 64–61
+| overtime     =
+| attend       = 957
+| record       = 8–8 (2–3) 
+}}
+{{CBB schedule entry
+| date         = 1/24/2015
+| time         = 3:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Miami RedHawks men's basketball team|Miami (OH)]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 55–60
+| overtime     =
+| attend       = 1,774
+| record       = 8–9 (2–4) 
+}}
+{{CBB schedule entry
+| date         = 1/27/2015
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Bowling Green Falcons men's basketball team|Bowling Green]]
+| opprank      =
+| site_stadium = [[Stroh Center]]
+| site_cityst  = [[Bowling Green, Ohio|Bowling Green, OH]]
+| gamename     = 
+| tv           = 
+| score        = 46–56
+| overtime     =
+| attend       = 1,560
+| record       = 8–10 (2–5) 
+}}
+{{CBB schedule entry
+| date         = 1/31/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Toledo Rockets men's basketball team|Toledo]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 69–80
+| overtime     =
+| attend       = 1,635
+| record       = 8–11 (2–6)
+}}
+{{CBB schedule entry
+| date         = 2/04/2015
+| time         = 6:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Miami (OH)
+| opprank      =
+| site_stadium = [[Millett Hall]]
+| site_cityst  = [[Oxford, Ohio|Oxford, OH]]
+| gamename     = 
+| tv           = 
+| score        = 69–67
+| overtime     =
+| attend       = 1,147
+| record       = 9–11 (3–6)
+}}
+{{CBB schedule entry
+| date         = 2/07/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = Bowling Green
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 65–69
+| overtime     =
+| attend       = 2,475
+| record       = 9–12 (3–7)
+}}
+{{CBB schedule entry
+| date         = 2/10/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = w
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Ball State Cardinals men's basketball team|Ball State]]
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 75–63
+| overtime     =
+| attend       = 975
+| record       = 10–12 (4–7) 
+}}
+{{CBB schedule entry
+| date         = 2/14/2015
+| time         = 3:30 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Western Michigan Broncos men's basketball team|Western Michigan]]
+| opprank      =
+| site_stadium = [[University Arena (Western Michigan University)|University Arena]]
+| site_cityst  = [[Kalamazoo, Michigan|Kalamazoo, MI]]
+| gamename     = 
+| tv           = 
+| score        = 65–69
+| overtime     =
+| attend       = 2,712
+| record       = 10–13 (4–8)
+}}
+{{CBB schedule entry
+| date         = 2/18/2015
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = [[2014–15 Central Michigan Chippewas men's basketball team|Central Michigan]]
+| opprank      =
+| site_stadium = [[McGuirk Arena]]
+| site_cityst  = [[Mount Pleasant, Michigan|Mount Pleasant, MI]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 66–68
+| overtime     =
+| attend       = 2,524
+| record       = 10–14 (4–9)
+}}
+{{CBB schedule entry
+| date         = 2/21/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =
+| away         =
+| neutral      =
+| rank         = no
+| opponent     = Eastern Michigan
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 65–73
+| overtime     =
+| attend       = 2,302
+| record       = 10–15 (4–10)
+}}
+{{CBB schedule entry
+| date         = 2/24/2015
+| time         = 6:00 PM
+| w/l          = 
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Toledo
+| opprank      =
+| site_stadium = [[Savage Arena]]
+| site_cityst  = [[Toledo, Ohio|Toledo, OH]]
+| gamename     = 
+| tv           = ESPN3
+| score        = '''Postponed'''&lt;ref&gt;{{cite web | author = | title =Toledo-Northern Illinois men's game postponed | website =[[Toledo Blade]] | date =February 24, 2015 | url =http://www.bcsn.tv/news_article/show/483248 | accessdate =February 24, 2015 | archive-url =https://web.archive.org/web/20150225052545/http://www.bcsn.tv/news_article/show/483248 | archive-date =February 25, 2015 | dead-url =yes | df =mdy-all }}&lt;/ref&gt;
+| overtime     =
+| attend       = &amp;nbsp;
+| record       = 
+}}
+{{CBB schedule entry
+| date         = 2/25/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Toledo
+| opprank      =
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, OH
+| gamename     = 
+| tv           = ESPN3
+| score        = 84–82
+| overtime     =
+| attend       = 4,317
+| record       = 11–15 (5–10)
+}}
+{{CBB schedule entry
+| date         = 2/28/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = Central Michigan
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 73–55
+| overtime     =
+| attend       = 1,548
+| record       = 12–15 (6–10)
+}}
+{{CBB schedule entry
+| date         = 3/03/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = 
+| neutral      =
+| rank         = no
+| opponent     = Western Michigan
+| opprank      =
+| site_stadium = Convocation Center
+| site_cityst  = DeKalb, IL
+| gamename     = 
+| tv           = ESPN3
+| score        = 65–63
+| overtime     =
+| attend       = 992
+| record       = 13–15 (7–10) 
+}}
+{{CBB schedule entry
+| date         = 3/06/2015
+| time         = 6:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =
+| away         = yes
+| neutral      =
+| rank         = no
+| opponent     = Ball State
+| opprank      =
+| site_stadium = [[John E. Worthen Arena]]
+| site_cityst  = [[Muncie, Indiana|Muncie, IN]]
+| gamename     = 
+| tv           = 
+| score        = 71–67
+| overtime     = OT
+| attend       = 2,585
+| record       = 14–15 (8–10) 
+}}
+|-
+!colspan=9 style=&quot;background:#000000; color:#cc1122;&quot; | [[2015 MAC Men's Basketball Tournament|&lt;span style=&quot;color:#cc1122;&quot;&gt;MAC Tournament&lt;/span&gt;]]
+{{CBB schedule entry
+| date         = 3/09/2015
+| time         = 7:00 pm
+| w/l          = l
+| nonconf      = 
+| away         = yes
+| rank         = no
+| opponent     = Akron 
+| site_stadium = [[James A. Rhodes Arena]]
+| site_cityst  = [[Akron, Ohio|Akron, OH]]
+| gamename     = First round
+| tv           = 
+| score        = 52–76
+| overtime     = 
+| attend       = 2,631
+| record       = 14–16
+}}
+{{CBB schedule end
+| rank     = yes
+| poll     = [[AP Poll]]
+| timezone = [[Central Time Zone|Central Time]]
+}}
+
+==References==
+{{reflist}}
+
+{{Northern Illinois Huskies men's basketball navbox}}
+
+{{DEFAULTSORT:2014-15 Northern Illinois Huskies men's basketball Team}}
+[[Category:2014–15 Mid-American Conference men's basketball season|Northern Illinois]]
+[[Category:Northern Illinois Huskies men's basketball seasons]]
+[[Category:2014 in sports in Illinois|Northern]]
+[[Category:2015 in sports in Illinois|Northern]]</text>
+      <sha1>bo1jkrft26w9gucusclpko40ckgifcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Scottish people of Russian-Jewish descent</title>
+    <ns>14</ns>
+    <id>42567226</id>
+    <revision>
+      <id>605512626</id>
+      <timestamp>2014-04-23T21:03:59Z</timestamp>
+      <contributor>
+        <username>Fixer88</username>
+        <id>9945971</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with '[[Category:Scottish people of Jewish descent|Russian]] [[Category:Scottish people of Russian descent|Jews]] Category:British people of Russian-Jewish descent|R...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Scottish people of Jewish descent|Russian]]
+[[Category:Scottish people of Russian descent|Jews]]
+[[Category:British people of Russian-Jewish descent|Russian]]</text>
+      <sha1>dwz0tcwsrw05v3uyeau7k90fk4h14lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kim Jin-Hyeok</title>
+    <ns>0</ns>
+    <id>42567232</id>
+    <redirect title="Kim Jin-hyeok" />
+    <revision>
+      <id>605512796</id>
+      <timestamp>2014-04-23T21:05:17Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Jin-Hyeok]] to [[Kim Jin-hyeok]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Jin-hyeok]]
+{{R from move}}</text>
+      <sha1>gocjzrgxzegl6rkf7zu6cxpgp3viwr1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sherri Jean Tucker</title>
+    <ns>0</ns>
+    <id>42567236</id>
+    <redirect title="Sherrie Tucker" />
+    <revision>
+      <id>605512907</id>
+      <timestamp>2014-04-23T21:06:07Z</timestamp>
+      <contributor>
+        <username>Eurodog</username>
+        <id>848978</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Sherrie Tucker]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#redirect [[Sherrie Tucker]]</text>
+      <sha1>kfl0cdpn4ms7t3quza9g7waxdr272ve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Yellow fat-tail scorpion</title>
+    <ns>0</ns>
+    <id>42567240</id>
+    <redirect title="Androctonus australis" />
+    <revision>
+      <id>605512993</id>
+      <timestamp>2014-04-23T21:06:49Z</timestamp>
+      <contributor>
+        <username>IronGargoyle</username>
+        <id>820190</id>
+      </contributor>
+      <comment>create redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Androctonus australis]]</text>
+      <sha1>kh6zlickyvldwk27z2t7oqenfhfiqwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Sculptures in New York (state)</title>
+    <ns>14</ns>
+    <id>42567244</id>
+    <revision>
+      <id>841935459</id>
+      <parentid>792669125</parentid>
+      <timestamp>2018-05-19T02:14:51Z</timestamp>
+      <contributor>
+        <username>Waz8</username>
+        <id>17847680</id>
+      </contributor>
+      <minor />
+      <comment>link to renamed category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{commonscat|Sculptures in New York (state)}}
+{{-}}
+[[Category:Art in New York (state)|S]]
+[[Category:Sculptures in the United States by state|New York]]</text>
+      <sha1>edcvaa1prnn31byq6h0ie5dr6d304vq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kim Jin-Cheol</title>
+    <ns>0</ns>
+    <id>42567245</id>
+    <redirect title="Kim Jin-cheol" />
+    <revision>
+      <id>605513052</id>
+      <timestamp>2014-04-23T21:07:15Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Jin-Cheol]] to [[Kim Jin-cheol]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Jin-cheol]]
+{{R from move}}</text>
+      <sha1>fk1cgur0oa8t1k0yxoeco1e3qs8gvab</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Pressure (play).jpg</title>
+    <ns>6</ns>
+    <id>42567248</id>
+    <revision>
+      <id>665157942</id>
+      <parentid>664165102</parentid>
+      <timestamp>2015-06-02T11:11:56Z</timestamp>
+      <contributor>
+        <username>Kelapstick</username>
+        <id>3072955</id>
+      </contributor>
+      <comment>Previous version(s) deleted per [[WP:F5|F5]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Summary==
+{{Non-free use rationale 2
+|Description = Official poster and logo of the 2014 Play Pressure.
+|Source = http://www.informededinburgh.co.uk/whats-on/whats-royal-lyceum-theatre/
+|Author = Pressure (play)
+|Article = Pressure (play)
+|Purpose = to serve as the primary means of visual identification at the top of the article dedicated to the work in question.
+|Replaceability = n.a.
+|Minimality = low resolution
+|Commercial = n.a.
+|Other information = Image has been released as part of promotion of the play and is readily available from multiple sources. No free use image available. As this is a fictional, copyrighted character and a copyrighted presentation, a freely-licensed alternative could not reasonably be obtained.
+}}
+
+==Licensing==
+{{Non-free poster|image has rationale=yes}}</text>
+      <sha1>a2ut1rhwc3bj12ktf0sd0ulxpenea2x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gavin Turek</title>
+    <ns>0</ns>
+    <id>42567249</id>
+    <revision>
+      <id>851847776</id>
+      <parentid>829501612</parentid>
+      <timestamp>2018-07-25T00:31:21Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* External links */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox person
+| name                      = Gavin Turek
+| image                     =
+| birth_place               = {{nowrap|[[Los Angeles, California]], [[United States]]}}
+| occupation                = {{hlist|Singer|songwriter|dancer|model|actress}}
+| module = {{Infobox musical artist|embed=yes
+| background = solo_singer &lt;!-- mandatory field--&gt;
+| genre = {{hlist|[[Disco]]|[[Dance music|dance]]}}
+| website                   = {{URL|gavinturek.com}}
+}}
+| labels                        = Young Art Records
+}}
+'''Gavin Turek''' is a singer, songwriter, dancer, and actress from [[Los Angeles, California]].
+
+==Life and career==
+Turek has performed at iconic venues such as [[The Troubadour, London|The Troubadour]], [[Hollywood Bowl]], [[Palladium (New York City)|Palladium]] and [[El Rey Theatre|El Rey]]. In April 2015, she released her single &quot;Frontline&quot;, a homage to [[Donna Summer]] and the B-side &quot;Don't Fight It&quot; via 1nfinity/Iheartcomix which was remixed by Grammy nominated producer starRo. In August 2015, she released an [[extended play]] with her longtime collaborator and friend [[Tokimonsta]], whom she met years ago via their [[Myspace]] music pages. The EP ''You're Invited'' is written by Gavin Turek and produced by Tokimonsta, and was released via Young Art Records. Turek is also known for her work with [[Mayer Hawthorne]], most recently as a member of his band Tuxedo. In the summer of 2015, she toured the East and West Coast with Tuxedo for a string of sold out dates, along with Tokimonsta.
+
+''[[Billboard (magazine)|Billboard]]'' magazine debuted the Tokimonsta's remix of Gavin Turek's single &quot;Frontline&quot; and announced their upcoming EP, with two songs, &quot;Hemisphere&quot; and &quot;Surrender&quot;, being released.&lt;ref&gt;{{cite web|title=Tokimonsta Remixes Gavin Turek's 'Frontline,' Announces Joint EP: Exclusive|url=http://www.billboard.com/articles/news/dance/6576157/tokimonsta-remix-gavin-tureks-frontline-joint-ep-exclusive|publisher=''[[Billboard (magazine)|Billboard]]''|last=Buerger|first=Megan|date=May 27, 2015|accessdate=August 21, 2015}}&lt;/ref&gt; [[Spin Magazine]] named her top 5 artists to watch for in July 2015.&lt;ref&gt;{{cite web|title=Five Artists to Watch in July 2015|url=http://www.spin.com/2015/07/five-artists-to-watch-july-2015-bad-bad-hats-gavin-turek-milk-moses-sumney-strange-wilds-list/|publisher=''[[Spin (magazine)|Spin]]''|date=July 7, 2015|accessdate=August 21, 2015}}&lt;/ref&gt; She was called &quot;LA's Disco Queen of the Moment&quot; by Revolt TV,&lt;ref&gt;{{cite web|title=Artist Spotlight: Gavin Turek Is Disco's Queen Of The Moment|url=http://revolt.tv/news/artist-spotlight-gavin-turek-is-discos-queen-of-the-moment/FB5FC39B-52B0-42CC-B0D0-685E9EB9EEB8|accessdate=August 21, 2015}}&lt;/ref&gt; and was &quot;On the Verge of Fame&quot; by [[LA Weekly]].&lt;ref&gt;{{cite web|title=Gavin Turek Turns Heartbreak Into Dance Music|url=http://www.laweekly.com/music/gavin-turek-turns-heartbreak-into-dance-music-4166281|publisher=''[[LA Weekly]]''|last=Bain|first=Katie|date=September 12, 2013|accessdate=August 21, 2015}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.gavinturek.com Official website]
+*{{Instagram|gavinturek}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Turek, Gavin}}
+[[Category:Living people]]
+[[Category:American female singers]]
+[[Category:American actresses]]
+[[Category:Year of birth missing (living people)]]</text>
+      <sha1>e4wad1a41pc2mer3iqpfrfk40qtk227</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hypoxis juncea</title>
+    <ns>0</ns>
+    <id>42567253</id>
+    <revision>
+      <id>831581840</id>
+      <parentid>768133857</parentid>
+      <timestamp>2018-03-21T08:45:00Z</timestamp>
+      <contributor>
+        <username>Tom.Bot</username>
+        <id>28901961</id>
+      </contributor>
+      <minor />
+      <comment>[[User:Tom.Bot/Task3|Task 3]]: +{{Taxonbar|[[:Category:Taxonbar templates without from parameter|from]]=[[d:Special:EntityPage/Q15481882|Q15481882]]}} ([[WT:TREE#Taxonbar addition requirements|7 sig. taxon IDs]]); WP:GenFix using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Italic title}}
+{{Speciesbox
+|name = Fringed yellow star-grass
+|image = Fringed Yellow Stargrass (Hypoxis juncea) (6148269752).jpg
+|image_caption= ''Hypoxis juncea''
+|genus = Hypoxis
+|species = juncea
+|authority = [[James Edward Smith|Sm.]]
+|synonyms = 
+}}
+
+'''''Hypoxis juncea''''' (commonly known as '''fringed yellow star-grass''' and '''rushy hypoxis''') is a [[Hypoxis|star-grass]] species with leaves that are so narrow as to be comparable to thread.&lt;ref&gt;{{Cite book|page=28|title=Wildflowers of Alabama and Adjoining States|author=Blanche E. Dean|author2=Amy Mason |author3=Joab L. Thomas |publisher=[[University of Alabama Press]]|year=1983|isbn=081730147X}}&lt;/ref&gt; It is not a true [[Poaceae|grass]], despite the common name. It is found in the [[United States]] on [[coastal plain]]s from [[Florida]] + [[Alabama]] to [[North Carolina]].&lt;ref&gt;[http://apps.kew.org/wcsp/namedetail.do?name_id=279067 Kew World Checklist of Selected Plant Families]&lt;/ref&gt;&lt;ref&gt;{{Cite book|page=605|title=Aquatic and Wetland Plants of Southeastern United States: Monocotyledons|volume=1|author=Robert K. Godfrey|author2=Jean W. Wooten|publisher=[[University of Georgia Press]]|year=2011|isbn=0820342424}}&lt;/ref&gt;&lt;ref&gt;[http://bonap.net/MapGallery/County/Hypoxis%20juncea.png Biota of North America Program 2013 county distribution map]&lt;/ref&gt; The species is a [[Wetland indicator status|facultative wetland]] [[Perennial plant|perennial]] [[forb]].&lt;ref&gt;{{Cite web|title=Hypoxis juncea|publisher=[[Encyclopedia of Life]]|url=http://eol.org/pages/1001764/hierarchy_entries/46193294/overview|accessdate=April 23, 2014}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q15481882}}
+
+[[Category:Hypoxis|juncea]]
+[[Category:Flora of the Southeastern United States]]
+[[Category:Plants described in 1792]]
+
+
+{{Asparagales-stub}}</text>
+      <sha1>2opklrdw55ocym0qqkv37ez9jauosgi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sishen–Saldanha Orex line</title>
+    <ns>0</ns>
+    <id>42567255</id>
+    <redirect title="Sishen–Saldanha railway line" />
+    <revision>
+      <id>605513206</id>
+      <timestamp>2014-04-23T21:08:15Z</timestamp>
+      <contributor>
+        <username>Peter Horn</username>
+        <id>897817</id>
+      </contributor>
+      <comment>#REDIRECT [[Sishen–Saldanha railway line]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Sishen–Saldanha railway line]]</text>
+      <sha1>j64zj99m2x69fz616l19uj84wj6ljc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mathews Mr Easy</title>
+    <ns>0</ns>
+    <id>42567257</id>
+    <revision>
+      <id>896099547</id>
+      <parentid>896098760</parentid>
+      <timestamp>2019-05-08T08:53:38Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor />
+      <comment>Robot - Moving category United States ultralight aircraft 1990–1999 to [[:Category:1990s United States ultralight aircraft]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2019 April 19]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name= Mr Easy
+ | image=
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=[[Homebuilt aircraft]]
+ | national origin=[[United States]]
+ | manufacturer=[[Vintage Ultralight and Lightplane Association]]
+ | designer=Lyle Mathews and associates
+ | first flight=
+ | introduced=
+ | retired=
+ | status=Plans available (2014)
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=at least two
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= [[US$]]25.00 (plans only, 1998)
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+The '''Mathews Mr Easy''' is an [[United States|American]] [[homebuilt aircraft]] that was designed by Lyle Mathews and associates and produced by the [[Vintage Ultralight and Lightplane Association]] of [[Marietta, Georgia]]. It was the sixth and final design of Mathews. The aircraft is supplied in the form of plans for amateur construction.&lt;ref name=&quot;Aerocrafter&quot;&gt;Purdy, Don: ''AeroCrafter - Homebuilt Aircraft Sourcebook, Fifth Edition'', page 286. BAI Communications, 15 July 1998. {{ISBN|0-9636409-4-1}}&lt;/ref&gt;&lt;ref name=&quot;VULA&quot;&gt;{{cite web|url = http://vula.org/blueprint_pricelist.html|title = Blueprints Price List|accessdate = 23 April 2014|last = Perkins | first = Scott, V.U.L.A. Vintage Ultralight and Lightplane Assoc. |authorlink = |year = 2004}}&lt;/ref&gt;
+
+==Design and development==
+The aircraft was designed to comply with the US [[FAR 103 Ultralight Vehicles]] rules, including the category's maximum empty weight of {{convert|254|lb|kg|0|abbr=on}}. The aircraft has a standard empty weight of {{convert|250|lb|kg|0|abbr=on}}.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+Mr Easy features a [[strut-braced]] and [[Flying wires|cable-braced]] [[biplane]] layout, a single-seat, open cockpit, fixed [[conventional landing gear]] and a single engine in [[pusher configuration]], mounted above the tail boom tube.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+The aircraft is made from bolted-together [[aluminum]] tubing, with its flying surfaces covered in [[Aircraft dope|doped]] [[aircraft fabric]]. Its {{convert|24.00|ft|m|1|abbr=on}} span wing has a wing area of {{convert|145.0|sqft|m2|abbr=on}}. The  standard engine used is the {{convert|40|hp|kW|0|abbr=on}} [[Rotax 447]] [[two-stroke]] twin-cylinder powerplant.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+Mr Easy has a typical empty weight of {{convert|250|lb|kg|abbr=on}} and a gross weight of {{convert|485|lb|kg|abbr=on}}, giving a useful load of {{convert|235|lb|kg|abbr=on}}. With full fuel of {{convert|5|u.s.gal}} the payload for the pilot and baggage is {{convert|205|lb|kg|abbr=on}}.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+The standard day, sea level, no wind, take off and landing roll with a {{convert|40|hp|kW|0|abbr=on}} engine is {{convert|175|ft|m|0|abbr=on}}.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+The designer estimates the construction time from the supplied plans as 250&amp;nbsp;hours.&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+
+==Operational history==
+
+In the United States ultralights are not required to be registered, and in April 2014 no examples were in fact [[Aircraft registration|registered]] in the United States with the [[Federal Aviation Administration]], although a total of two had been registered at one time.&lt;ref name=&quot;FAAReg&quot;&gt;{{cite web|url = http://registry.faa.gov/aircraftinquiry/AcftRef_Results.aspx?Mfrtxt=&amp;Modeltxt=MR+EASY&amp;PageNo=1|title = Make / Model Inquiry Results|accessdate = 23 April 2014|last = [[Federal Aviation Administration]]|date = 23 April 2014}}&lt;/ref&gt;
+&lt;!-- ==Variants== --&gt;
+&lt;!-- ==Aircraft on display== --&gt;
+
+==Specifications (Mr Easy) ==
+{{Aircraft specs
+|ref=AeroCrafter&lt;ref name=&quot;Aerocrafter&quot; /&gt;
+|prime units?=imp&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=one
+|capacity=
+|length m=
+|length ft=
+|length in=
+|length note=
+|span m=
+|span ft=24
+|span in=0
+|span note=
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=
+|wing area sqft=145.0
+|wing area note=
+|aspect ratio=
+|airfoil=
+|empty weight kg=
+|empty weight lb=250
+|empty weight note=
+|gross weight kg=
+|gross weight lb=485
+|gross weight note=
+|fuel capacity={{convert|5|u.s.gal}}
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Rotax 447]]
+|eng1 type=twin cylinder, air-cooled, [[two stroke]] [[aircraft engine]]
+|eng1 kw=
+|eng1 hp=40
+
+|prop blade number=3
+|prop name=composite, ground adjustable
+|prop dia m=
+|prop dia ft=
+|prop dia in=
+|prop note=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=
+|max speed mph=63
+|max speed kts=
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=50
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=28
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|range km=
+|range miles=120
+|range nmi=
+|range note=
+|endurance=
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=
+|roll rate=
+|glide ratio=
+|climb rate ms=
+|climb rate ftmin=800
+|climb rate note=
+|time to altitude=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=3.3
+|wing loading note=
+|power/mass=
+|thrust/weight=
+|more performance=
+|avionics=
+}}
+
+==References==
+{{reflist}}
+
+&lt;!-- ==External links== --&gt;
+{{Lyle Mathews aircraft}}
+
+[[Category:Mathews aircraft|Mr Easy]]
+[[Category:Vintage Ultralight and Lightplane Association aircraft|Mathews Mr Easy]]
+[[Category:1990s United States sport aircraft]]
+[[Category:1990s United States ultralight aircraft]]
+[[Category:Single-engined pusher aircraft]]
+[[Category:Biplanes]]
+[[Category:Homebuilt aircraft]]</text>
+      <sha1>kql52e9k5ewssreuz72nkw3nhhc414z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2014–15 Toledo Rockets men's basketball team</title>
+    <ns>0</ns>
+    <id>42567261</id>
+    <revision>
+      <id>904664421</id>
+      <parentid>893384907</parentid>
+      <timestamp>2019-07-03T17:16:47Z</timestamp>
+      <contributor>
+        <username>Editorofthewiki</username>
+        <id>6114512</id>
+      </contributor>
+      <comment>/* Roster */ lk</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Coord|41|39|36.6|N|83|36|35.2|W|display=title}}
+
+{{Infobox NCAA team season
+|Mode              = Basketball
+|Year              = 2014–15
+|Prev year         = 2013–14
+|Next year         = 2015–16
+|Team              = Toledo Rockets
+| Image=Toledo Rockets wordmark.svg
+| ImageSize= 175
+|Conference        = Mid-American Conference
+|Division          = West Division
+|ShortConference   = MAC
+|CoachRank         =
+|APRank            =
+|Record            = 20–13
+|ConfRecord        = 11–7
+|HeadCoach         = [[Tod Kowalczyk]]
+|HCYear            = 5th
+|AsstCoach1        = Jason Kaslow
+|AsstCoach2        = Jeff Massey
+|AsstCoach3        = Nick Dials
+|AsstCoach4        =
+|StadiumArena      = [[Savage Arena]]
+|Champion          = 
+|BowlTourney       =
+|BowlTourneyResult =
+}}
+{{2014–15 Mid-American Conference men's basketball standings}}
+The '''2014–15 Toledo Rockets Huskies men's basketball team''' represented the [[University of Toledo]] during the [[2014–15 NCAA Division I men's basketball season]]. The Rockets, led by fifth year head coach [[Tod Kowalczyk]], played their home games at [[Savage Arena]], as members of the West Division of the [[Mid-American Conference]]. They finished the season 20–13, 11–7 in MAC play to finish in second place in the West Division. They advanced to the semifinals of the [[2015 MAC Men's Basketball Tournament|MAC Tournament]] where they lost to Central Michigan. Despite having 20 wins, they were not invited to a postseason tournament.
+
+==Roster==
+{{CBB roster/Header|year=2014|team=Toledo Rockets|teamcolors=y|high_school=yes}}
+{{CBB roster/Player|first=Kurt|last=Hall|num=0|pos=G/F|ft=6|in=6|lbs=200|class=FR|rs=|home=[[North Chicago, Illinois]]|high_school=[[North Chicago Community High School|North Chicago HS]]}}
+{{CBB roster/Player|first=Jonathan|last=Williams|link=y|dab=basketball, born 1995|num=1|pos=G|ft=6|in=3|lbs=180|class=SO|rs=|home=[[Southfield, Michigan]]|high_school=[[Southfield-Lathrup High School|Southfield-Lathrup HS]]}}
+{{CBB roster/Player|first=Dre|last=Applewhite|num=2|pos=G/F|ft=6|in=5|lbs=220|class=SO|rs=|home=[[Memphis, Tennessee]]|high_school=[[Central High School (Memphis, Tennessee)|Central HS]]&lt;br&gt;[[Mississippi State University|Mississippi State]]}}
+{{CBB roster/Player|first=Stuckey|last=Mosley|num=3|pos=G|ft=6|in=3|lbs=180|class=FR|rs=|home=[[Orlando, Florida]]|high_school=[[Timber Creek High School|Timber Creek HS]]}}
+{{CBB roster/Player|first=Justin|last=Drummond|num=4|pos=G/F|ft=6|in=4|lbs=200|class=SR|rs=|home=Washington, D.C.|high_school=[[Riverdale Baptist School]]&lt;br&gt;[[Loyola University Maryland|Loyola (MD)]]}}
+{{CBB roster/Player|first=Aubrey|last=Williams|num=15|pos=F|ft=6|in=7|lbs=215|class=SO|rs=y|home=[[Bowie, Maryland]]|high_school=[[IMG Academy]]}}
+{{CBB roster/Player|first=Julius|last=Brown|num=20|pos=G|ft=5|in=10|lbs=170|class=SR|rs=|home=[[Markham, Illinois]]|high_school=[[Hillcrest High School (Country Club Hills, Illinois)|Hillcrest HS]]}}
+{{CBB roster/Player|first=Angel|last=Aparicio|num=22|pos=G|ft=6|in=5|lbs=190|class=JR|rs=|home=[[Benicarló|Benicarló, Spain]]|high_school=Leo XIII HS}}
+{{CBB roster/Player|first=J. D.|last=Weatherspoon|num=24|pos=F|ft=6|in=6|lbs=215|class=SR|rs=|home=[[Columbus, Ohio]]|high_school=[[North High School (Columbus, Ohio)|North HS]]&lt;br&gt;[[Ohio State University|Ohio State]]}}
+{{CBB roster/Player|first=Jordan|last=Lauf|num=25|pos=G|ft=6|in=5|lbs=190|class=SO|rs=|home=[[Napoleon, Ohio]]|high_school=[[Napoleon High School (Ohio)|Napoleon HS]]}}
+{{CBB roster/Player|first=Zach|last=Garber|num=33|pos=C|ft=6|in=10|lbs=240|class=SO|rs=|home=[[Carey, Ohio]]|high_school=[[Vanlue High School|Vanlue HS]]}}
+{{CBB roster/Player|first=Nathan|last=Boothe|link=y|num=53|pos=C|ft=6|in=9|lbs=250|class=JR|rs=|home=[[Gurnee, Illinois]]|high_school=[[Warren Township High School|Warren Township HS]]}}
+{{CBB roster/Footer
+|head_coach=
+* [[Tod Kowalczyk]] ([[University of Minnesota Duluth|Minnesota Duluth]])
+|asst_coach=
+* Jason Kaslow ([[University of Wisconsin–Stevens Point|Wisconsin–Stevens Point]])
+* Jeff Massey ([[Xavier University|Xavier]])
+}}
+
+==Schedule==
+Source: [https://web.archive.org/web/20141204215106/http://www.utrockets.com/SportSelect.dbml?DB_OEM_ID=18000&amp;SPID=10721&amp;SPSID=89705&amp;DB_OEM_ID=18000]
+{{CBB schedule start|time=|ranklink=[[2014-15 NCAA Division I men's basketball rankings]]|rankyear=2014|rank=YES|tv=|record=yes|attend=yes}}
+|-
+!colspan=9 style=&quot;background:#000080; color:#F9D819;&quot;| Exhibition
+{{CBB schedule entry
+| date         = 11/08/2014
+| time         = 2:30 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =
+| away         = 
+| neutral      = 
+| rank         =
+| opponent     = [[University of Findlay|Findlay]]
+| opprank      = 
+| site_stadium = [[Savage Arena]]
+| site_cityst  = [[Toledo, Ohio]]
+| attend       = N/A
+| tv           = 
+| score        = 101–72
+| overtime     =
+| record       = 
+}}
+|-
+!colspan=9 style=&quot;background:#000080; color:#F9D819;&quot;| Regular Season
+{{CBB schedule entry
+| date         = 11/16/2014
+| time         = 2:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Northern Arizona Lumberjacks men's basketball team|Northern Arizona]]
+| opprank      =
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = 
+| score        = 71–58
+| attend       = 4,128
+| record       = 1–0
+}}
+{{CBB schedule entry
+| date         = 11/18/2014
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 VCU Rams men's basketball team|VCU]]
+| opprank      = 15
+| site_stadium = [[Siegel Center]]
+| site_cityst  = [[Richmond, Virginia]]
+| gamename     = [[Legends Classic (basketball tournament)|Legends Classic]] 
+| tv           = [[ESPNU College Basketball|ESPNU]]
+| score        = 78–87
+| overtime     = 
+| attend       = 7,637
+| record       = 1–1
+}}
+{{CBB schedule entry
+| date         = 11/21/2014
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Oregon Ducks men's basketball team|Oregon]]
+| opprank      = 
+| site_stadium = [[Matthew Knight Arena]]
+| site_cityst  = [[Eugene, Oregon]]
+| gamename     = Legends Classic
+| tv           = [[Pac-12 Network|P12N]]
+| score        = 68–78
+| overtime     = 
+| attend       = 5,790
+| record       = 1–2
+}}
+{{CBB schedule entry
+| date         = 11/24/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Bucknell Bison men's basketball team|Bucknell]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| gamename     = Legends Classic
+| tv           = 
+| score        = 92–65
+| overtime     = 
+| attend       = 4,419
+| record       = 2–2
+}}
+{{CBB schedule entry
+| date         = 11/25/2014
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Detroit Titans men's basketball team|Detroit]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| gamename     = Legends Classic
+| tv           = 
+| score        = 79–82
+| overtime     = 
+| attend       = 4,148
+| record       = 2–3
+}}
+{{CBB schedule entry
+| date         = 11/29/2014
+| time         = 3:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Oakland Golden Grizzlies men's basketball team|Oakland]]
+| opprank      = 
+| site_stadium = [[Athletics Center O'rena]]
+| site_cityst  = [[Rochester, Michigan]]
+| gamename     = 
+| tv           = TV-20/[[ESPN3]]
+| score        = 79–81
+| overtime     = 
+| attend       = 1,482
+| record       = 2–4
+}}
+{{CBB schedule entry
+| date         = 12/03/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Cleveland State Vikings men's basketball team|Cleveland State]]
+| opprank      = 
+| site_stadium = [[Wolstein Center]]
+| site_cityst  = [[Cleveland, Ohio]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 87–59
+| overtime     = 
+| attend       = 4,748
+| record       = 3–4
+}}
+{{CBB schedule entry
+| date         = 12/06/2014
+| time         = 2:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Chicago State Cougars men's basketball team|Chicago State]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| gamename     = 
+| tv           = 
+| score        = 87–59
+| overtime     = 
+| attend       = 4,748
+| record       = 4–4
+}}
+{{CBB schedule entry
+| date         = 12/13/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Arkansas State Red Wolves men's basketball team|Arkansas State]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = 
+| score        = 73–65
+| attend       = 4,445
+| record       = 5–4
+}}
+{{CBB schedule entry
+| date         = 12/17/2014
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Robert Morris Colonials men's basketball team|Robert Morris]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = [[Buckeye Cable Sports Network|BCSN]]
+| score        = 83–57
+| attend       = 4,120
+| record       = 6–4
+}}
+{{CBB schedule entry
+| date         = 12/20/2014
+| time         = 2:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 McNeese State Cowboys basketball team|McNeese State]]
+| opprank      = 
+| site_stadium = [[Burton Coliseum]]
+| site_cityst  = [[Lake Charles, Louisiana]]
+| tv           = 
+| score        = 83–69
+| attend       = 391
+| record       = 7–4
+}}
+{{CBB schedule entry
+| date         = 12/29/2014
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Duke Blue Devils men's basketball team|Duke]]
+| opprank      = 2
+| site_stadium = [[Cameron Indoor Stadium]]
+| site_cityst  = [[Durham, North Carolina]]
+| gamename     = 
+| tv           = [[ESPN2]]
+| score        = 69–86
+| attend       = 9,314
+| record       = 7–5
+}}
+{{CBB schedule entry
+| date         = 01/03/2015
+| time         = 4:00 PM
+| w/l          = w
+| nonconf      = yes
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+| opprank      = 
+| site_stadium = [[The Bank of Kentucky Center]]
+| site_cityst  = [[Highland Heights, Kentucky]]
+| gamename     = 
+| tv           = ESPN3
+| score        = 57–55
+| attend       = 2,055
+| record       = 8–5
+}}
+{{CBB schedule entry
+| date         = 01/06/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Central Michigan Chippewas men's basketball team|Central Michigan]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = BCSN
+| score        = 62–65
+| attend       = 4,584
+| record       = 8–6 (0–1)
+}}
+{{CBB schedule entry
+| date         = 01/09/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      =
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Akron Zips men's basketball team|Akron]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = ESPNU
+| score        = 84–67
+| attend       = 5,509
+| record       = 9–6 (1–1)
+}}
+{{CBB schedule entry
+| date         = 01/14/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Ohio Bobcats men's basketball team|Ohio]]
+| opprank      = 
+| site_stadium = [[Convocation Center (Ohio University)|Convocation Center]]
+| site_cityst  = [[Athens, Ohio]]
+| tv           = 
+| score        = 80–73
+| attend       = 7,714
+| record       = 10–6 (2–1)
+}}
+{{CBB schedule entry
+| date         = 01/17/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Western Michigan Broncos men's basketball team|Western Michigan]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = 
+| score        = 78–81
+| overtime     = OT
+| attend       = 6,089
+| record       = 10–7 (2–2)
+}}
+{{CBB schedule entry
+| date         = 01/21/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Kent State Golden Flashes men's basketball team|Kent State]]
+| opprank      = 
+| site_stadium = [[Memorial Athletic and Convocation Center]]
+| site_cityst  = Kent, Ohio
+| tv           = 
+| score        = 60–67
+| attend       = 3,374
+| record       = 10–8 (2–3) 
+}}
+{{CBB schedule entry
+| date         = 01/24/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Bowling Green Falcons men's basketball team|Bowling Green]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = 
+| score        = 71–67
+| attend       = 7,392
+| record       = 11–8 (3–3)
+}}
+{{CBB schedule entry
+| date         = 01/27/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Miami RedHawks men's basketball team|Miami (OH)]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = BCSN
+| score        = 70–65
+| attend       = 4,708
+| record       = 12–8 (4–3)
+}}
+{{CBB schedule entry
+| date         = 01/31/2015
+| time         = 8:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Northern Illinois Huskies men's basketball team|Northern Illinois]]
+| opprank      = 
+| site_stadium = [[Convocation Center (Northern Illinois University)|Convocation Center]]
+| site_cityst  = [[DeKalb, Illinois]]
+| tv           = ESPN3
+| score        = 80–69
+| attend       = 1,635
+| record       = 13–8 (5–3)
+}}
+{{CBB schedule entry
+| date         = 02/04/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Eastern Michigan Eagles men's basketball team|Eastern Michigan]]
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = BCSN
+| score        = 84–60
+| attend       = 4,532
+| record       = 14–8 (6–3)
+}}
+{{CBB schedule entry
+| date         = 02/07/2015
+| time         = 2:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Ball State Cardinals men's basketball team|Ball State]]
+| opprank      = 
+| site_stadium = [[John E. Worthen Arena]]
+| site_cityst  = [[Muncie, Indiana]]
+| tv           = 
+| score        = 72–61
+| attend       = 3,325
+| record       = 15–8 (7–3)
+}}
+{{CBB schedule entry
+| date         = 02/10/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = [[2014–15 Buffalo Bulls men's basketball team|Buffalo]]
+| opprank      = 
+| site_stadium = [[Alumni Arena (University at Buffalo)|Alumni Arena]]
+| site_cityst  = [[Amherst, New York]]
+| tv           = ESPN3
+| score        = 92–88
+| attend       = 3,417
+| record       = 16–8 (8–3)
+}}
+{{CBB schedule entry
+| date         = 02/13/2015
+| time         = 6:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = Kent State
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = ESPNU
+| score        = 75–76 
+| overtime     = OT
+| attend       = 5,481
+| record       = 16–9 (8–4)
+}}
+{{CBB schedule entry
+| date         = 02/18/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = Akron
+| opprank      = 
+| site_stadium = [[James A. Rhodes Arena]]
+| site_cityst  = [[Akron, Ohio]]
+| tv           = ESPN3
+| score        = 68–66
+| attend       = 3,351
+| record       = 17–9 (9–4)
+}}
+{{CBB schedule entry
+| date         = 02/21/2015
+| time         = 2:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = Western Michigan
+| opprank      = 
+| site_stadium = [[University Arena (Western Michigan University)|University Arena]]
+| site_cityst  = [[Kalamazoo, Michigan]]
+| tv           = 
+| score        = 97–87
+| attend       = 3,451
+| record       = 18–9 (10–4)
+}}
+{{CBB schedule entry
+| date         = 02/24/2015
+| time         = 7:00 PM
+| w/l          = 
+| nonconf      = 
+| homecoming   =  
+| away         =
+| neutral      = 
+| rank         = 
+| opponent     = Northern Illinois
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = BCSN
+| score        = '''Postponed'''&lt;ref&gt;{{cite web | author = | title =Toledo-Northern Illinois men's game postponed | website =[[Toledo Blade]] | date =February 24, 2015 | url =http://www.bcsn.tv/news_article/show/483248 | accessdate =February 24, 2015 | archive-url =https://web.archive.org/web/20150225052545/http://www.bcsn.tv/news_article/show/483248 | archive-date =February 25, 2015 | dead-url =yes | df =mdy-all }}&lt;/ref&gt;
+| attend       = &amp;nbsp;
+| record       = 
+}}
+{{CBB schedule entry
+| date         = 02/25/2015
+| time         = 8:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =  
+| away         =
+| neutral      = 
+| rank         = 
+| opponent     = Northern Illinois
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = BCSN
+| score        = 82–84
+| attend       = 4,317
+| record       = 18–10 (10–5)
+}}
+{{CBB schedule entry
+| date         = 02/28/2015
+| time         = 7:00 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   =  
+| away         = 
+| neutral      = 
+| rank         = 
+| opponent     = Ball State
+| opprank      = 
+| site_stadium = Savage Arena
+| site_cityst  = Toledo, Ohio
+| tv           = 
+| score        = 70–59
+| attend       = 6,812
+| record       = 19–10 (11–5)
+}}
+{{CBB schedule entry
+| date         = 03/03/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = Central Michigan
+| opprank      = 
+| site_stadium = [[McGuirk Arena]]
+| site_cityst  = [[Mount Pleasant, Michigan]]
+| tv           = ESPN3
+| score        = 77–85
+| attend       = 3,793
+| record       = 19–11 (11–6)
+}}
+{{CBB schedule entry
+| date         = 03/06/2015
+| time         = 7:00 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   =  
+| away         = yes
+| neutral      = 
+| rank         = 
+| opponent     = Eastern Michigan
+| opprank      = 
+| site_stadium = [[Convocation Center (Eastern Michigan University)|Convocation Center]]
+| site_cityst  = [[Ypsilanti, Michigan]]
+| tv           = 
+| score        = 59–85
+| attend       = 1,494
+| record       = 19–12 (11–7)
+}}
+|-
+!colspan=9 style=&quot;background:#000080; color:#F9D819;&quot;| [[2015 MAC Men's Basketball Tournament|&lt;span style=&quot;color:#F9D819;&quot;&gt;MAC Tournament&lt;/span&gt;]]
+{{CBB schedule entry
+| date         = 03/12/2015
+| time         = 6:30 PM
+| w/l          = w
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = yes
+| rank         = 
+| opponent     = Eastern Michigan
+| opprank      = 
+| site_stadium = [[Quicken Loans Arena]]
+| site_cityst  = [[Cleveland|Cleveland, Ohio]]
+| gamename     = Quarterfinals
+| tv           = ESPN3
+| score        = 78–67
+| overtime     = 
+| attend       = 4,502
+| record       = 20–12
+}}
+{{CBB schedule entry
+| date         = 03/13/2015
+| time         = 6:30 PM
+| w/l          = l
+| nonconf      = 
+| homecoming   = 
+| away         = 
+| neutral      = yes
+| rank         = 
+| opponent     = Central Michigan
+| opprank      = 
+| site_stadium = Quicken Loans Arena
+| site_cityst  = Cleveland, Ohio
+| gamename     = Semifinals
+| tv           = ESPN3
+| score        = 66–75
+| overtime     = 
+| attend       = &amp;nbsp;
+| record       = 20–13
+}}
+{{CBB schedule end| rank = | poll=[[AP Poll]]| timezone = [[Eastern Time Zone|Eastern]]}}
+
+==References==
+{{reflist}}
+
+{{Toledo Rockets men's basketball navbox}}
+
+{{DEFAULTSORT:2014-15 Toledo Rockets men's basketball Team}}
+[[Category:2014–15 Mid-American Conference men's basketball season|Toledo]]
+[[Category:Toledo Rockets men's basketball seasons]]</text>
+      <sha1>klypp0uandosxdxehdea1nou5wg1y2j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kim Young-Nam</title>
+    <ns>0</ns>
+    <id>42567270</id>
+    <redirect title="Kim Young-nam" />
+    <revision>
+      <id>605513355</id>
+      <timestamp>2014-04-23T21:09:15Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Young-Nam]] to [[Kim Young-nam]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Young-nam]]
+{{R from move}}</text>
+      <sha1>8mn4c053ljbz0uy9oexo55e02u8mxrz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Falcon 9 flight 11</title>
+    <ns>0</ns>
+    <id>42567275</id>
+    <redirect title="AsiaSat 8" />
+    <revision>
+      <id>784046662</id>
+      <parentid>709696078</parentid>
+      <timestamp>2017-06-06T04:50:00Z</timestamp>
+      <contributor>
+        <username>JFG</username>
+        <id>168812</id>
+      </contributor>
+      <minor />
+      <comment>JFG moved page [[Falcon 9 Flight 11]] to [[Falcon 9 flight 11]]: [[MOS:CAPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[AsiaSat 8]]
+
+&lt;!-- See also:  [[List_of_Falcon_9_launches#Launch_history_and_manifest]] --&gt;
+
+[[Category:Falcon rocket launches]]</text>
+      <sha1>svl9v0197wh8tgacbk6mwfvcxffnr0v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ADT Event Center</title>
+    <ns>0</ns>
+    <id>42567280</id>
+    <redirect title="Dignity Health Sports Park" />
+    <revision>
+      <id>876286063</id>
+      <parentid>876277474</parentid>
+      <timestamp>2019-01-01T11:44:29Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[Dignity Health Sports Park]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Dignity Health Sports Park]]
+{{R from move}}</text>
+      <sha1>pkkfm5fu26bsu87jqod3ouqcg5xp1y6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kim Ji-Hun (wrestler)</title>
+    <ns>0</ns>
+    <id>42567282</id>
+    <redirect title="Kim Ji-hun (wrestler)" />
+    <revision>
+      <id>605513562</id>
+      <timestamp>2014-04-23T21:10:41Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Ji-Hun (wrestler)]] to [[Kim Ji-hun (wrestler)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Ji-hun (wrestler)]]
+{{R from move}}</text>
+      <sha1>6uxi35arxus3w0ijk8lucjxv62w6opl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blitz kids</title>
+    <ns>0</ns>
+    <id>42567283</id>
+    <redirect title="Blitz Kids" />
+    <revision>
+      <id>605513566</id>
+      <timestamp>2014-04-23T21:10:42Z</timestamp>
+      <contributor>
+        <username>SMcCandlish</username>
+        <id>378390</id>
+      </contributor>
+      <comment>redir</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Blitz Kids]] {{R from alternative capitalisation}}</text>
+      <sha1>65u90bo9g8aczzj19g0bi6a1j037zud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Little River Turnpike Bridge</title>
+    <ns>0</ns>
+    <id>42567286</id>
+    <revision>
+      <id>823161969</id>
+      <parentid>821809318</parentid>
+      <timestamp>2018-01-30T16:45:38Z</timestamp>
+      <contributor>
+        <username>American Money</username>
+        <id>19480448</id>
+      </contributor>
+      <comment>+[[Category:1826 establishments in Virginia]]; ±[[Category:Bridges completed in 1810]]→[[Category:Bridges completed in 1826]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox NRHP
+  | name = Little River Turnpike Bridge
+  | nrhp_type = 
+  | image = Aldie_LR-Bridge_7814.jpg
+  | caption = Little River Turnpike Bridge over US 50 in Aldie, showing both arches and parapet wall
+  | nearest_city= {{jct|state=VA|US|50|city1=Aldie}}
+  | coordinates = {{coord|38|58|31|N|77|38|22|W|display=inline,title}}
+| locmapin = USA Virginia Northern#USA Virginia#USA
+  | built = {{Start date|1826}}
+  | added = April 11, 2014
+  | area = 
+  | governing_body = State
+  | refnum = 14000148&lt;ref name=&quot;nps&quot;&gt;{{cite web|url=http://www.nps.gov/history/nr/listings/20140418.htm|title=National Register of Historic Places Listings|date=2014-04-18|work=Weekly List of Actions Taken on Properties:  4/07/14 through 4/11/14|publisher=National Park Service}}&lt;/ref&gt;
+}}
+
+The '''Little River Turnpike Bridge''' carries [[U.S. Route 50 in Virginia|U.S. Route&amp;nbsp;50]] (US&amp;nbsp;50) across the [[Little River (Goose Creek)|Little River]] near [[Aldie, Virginia|Aldie]] in [[Loudoun County, Virginia]]. The two-arch masonry bridge was built in 1826 by the [[Little River Turnpike]] Company, which built the roadway that is now US&amp;nbsp;50. The costs of the bridge were apparently shared between that company and the Ashley's Gap Turnpike Company. It is one of a small number of masonry arch bridges still carrying a major through road in the state. It is about {{convert|108|ft|m}} long and {{convert|23|ft|m}} wide.&lt;ref name=NRHP&gt;{{cite web|url=http://www.dhr.virginia.gov/registers/Counties/Loudoun/053-0244_Little_River_Turnpike_Bridge_2007_draft_Nomination.pdf|title=NRHP draft nomination for Little River Turnpike Bridge|publisher=Virginia DHR|accessdate=2014-04-23}}&lt;/ref&gt;
+
+The bridge has received only modest visible modifications since its construction. Concrete caps have been installed on upper surface elements, and the arch underside has also been protected with shotcrete.  The upstream central pier has had a concrete fender added to protect it from debris and scouring. The downstream parapet wall was damaged by a truck in 1998 and reconstructed, and in 2004 reinforcing metal rods were injected into the rubble of the bridge to help distribute the active load. {{As of|2014}}, the bridge has no weight limit.&lt;ref name=NRHP/&gt;
+
+The bridge was listed on the [[National Register of Historic Places]] in 2014.&lt;ref name=&quot;nps&quot;/&gt;
+
+==See also==
+* {{portal-inline|Bridges}}
+* {{portal-inline|Virginia}}
+* {{Portal-inline|National Register of Historic Places}}
+* [[List of bridges on the National Register of Historic Places in Virginia]]
+* [[National Register of Historic Places listings in Loudoun County, Virginia]]
+
+==References==
+{{reflist}}{{National Register of Historic Places in Virginia}}
+{{NRHP bridges}}
+
+[[Category:Road bridges on the National Register of Historic Places in Virginia]]
+[[Category:Bridges completed in 1826]]
+[[Category:National Register of Historic Places in Loudoun County, Virginia]]
+[[Category:Arch bridges in the United States]]
+[[Category:Road bridges in Virginia]]
+[[Category:U.S. Route 50]]
+[[Category:Bridges on the United States Numbered Highways]]
+[[Category:Buildings and structures in Loudoun County, Virginia]]
+[[Category:1826 establishments in Virginia]]
+
+
+{{LoudounCountyVA-NRHP-stub}}
+{{Virginia-bridge-struct-stub}}</text>
+      <sha1>imsj82tn760rl45k6c56iipppbef3jr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Mathews aircraft</title>
+    <ns>14</ns>
+    <id>42567287</id>
+    <revision>
+      <id>605513605</id>
+      <timestamp>2014-04-23T21:10:55Z</timestamp>
+      <contributor>
+        <username>Ahunt</username>
+        <id>253891</id>
+      </contributor>
+      <comment>new cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{aircat|Lyle Mathews|the United States}}</text>
+      <sha1>c0gttmi6namrebid8y4f6g1l3hjgg3x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Yellow fattail scorpion</title>
+    <ns>0</ns>
+    <id>42567288</id>
+    <redirect title="Androctonus australis" />
+    <revision>
+      <id>605513611</id>
+      <timestamp>2014-04-23T21:10:59Z</timestamp>
+      <contributor>
+        <username>IronGargoyle</username>
+        <id>820190</id>
+      </contributor>
+      <comment>create redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Androctonus australis]]</text>
+      <sha1>kh6zlickyvldwk27z2t7oqenfhfiqwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anssi Laine</title>
+    <ns>0</ns>
+    <id>42567292</id>
+    <revision>
+      <id>836590046</id>
+      <parentid>724337539</parentid>
+      <timestamp>2018-04-15T18:22:16Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>+{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Use mdy dates|date=April 2014}}
+{{Infobox person
+| name = Anssi Laine
+| image = 
+| caption = 
+| image_size = 225px
+| birth_date = &lt;!-- {{Birth date and age|1900|00|00}} --&gt;
+| birth_place = [[Finland]]
+| death_date = 
+| other_names = 
+| occupation = Head Coach, [[KalPa]]
+| predecessor = [[Jari Laukkanen (ice hockey)|Jari Laukkanen]] 
+| successor = 
+}}
+'''Anssi Laine''' is a [[Finland|Finnish]] [[ice hockey]] coach. He is currently the head coach for [[KalPa]] of the Finnish [[Liiga]].
+
+On February 27, 2014, Laine replaced [[Jari Laukkanen (ice hockey)|Jari Laukkanen]] to take over the head coaching duties for [[KalPa]].&lt;ref&gt;http://www.savonsanomat.fi/urheilu/jaakiekko/kalpa-antoi-potkut-jari-laukkaselle/1775998&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.eliteprospects.com/staff.php?staff=943 Anssi Laine's profile at Eliteprospects.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laine, Anssi}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Finnish ice hockey coaches]]
+
+
+{{Finland-icehockey-bio-stub}}</text>
+      <sha1>lpwep8eji85s0cns3ow6g46pvc67ehw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Taxonomy/Corallus</title>
+    <ns>10</ns>
+    <id>42567294</id>
+    <revision>
+      <id>762639783</id>
+      <parentid>605513744</parentid>
+      <timestamp>2017-01-29T23:13:48Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <minor />
+      <comment>Replace '{{Don't edit this line {{{machine code|}}}|{{{1}}}' with '{{Don't edit this line {{{machine code|}}}' in taxonomy templates</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Don't edit this line {{{machine code|}}}
+|rank=genus
+|link=Corallus
+|parent=Boinae
+|extinct=
+|refs=&lt;!--Shown on this page only; don't include &lt;ref&gt; tags --&gt;
+}}</text>
+      <sha1>96ung886iw3w15ymynf6n2my1pt1y6w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Claude Koutob</title>
+    <ns>0</ns>
+    <id>42567295</id>
+    <revision>
+      <id>879294689</id>
+      <parentid>874797696</parentid>
+      <timestamp>2019-01-20T08:57:44Z</timestamp>
+      <contributor>
+        <username>Zyxw</username>
+        <id>473593</id>
+      </contributor>
+      <minor />
+      <comment>update FootballDatabase.eu template to use ID that works with new URL, misc formatting</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox football biography
+| name = Claude Koutob
+| image = 
+| fullname = Claude Koutob Naoto
+| height = 1.78 m
+| birth_date = {{birth date and age|1995|12|26|df=y}}
+| birth_place = [[Togo]]
+| currentclub = [[Les Herbiers VF|Les Herbiers]]
+| clubnumber = 7
+| position = [[Forward (association football)#Winger|Winger]] / [[Forward (association football)#Second striker|Forward]]
+| youthyears1 = | youthclubs1 = 
+| years1 = 2013–2014 | clubs1 = [[Gbikinti FC de Bassar|Gbikinti]] | caps1 =  | goals1 = 
+| years2 = 2014–2015 | clubs2 = [[AS Marsa]] | caps2 = 2 | goals2 = 0
+| years3 = 2015–2017 | clubs3 = [[Vendée Poiré-sur-Vie Football|Poiré-sur-Vie]] | caps3 = 16 | goals3 = 7
+| years4 = 2017– | clubs4 = [[Les Herbiers VF|Les Herbiers II]] | caps4 = 18 | goals4 = 9
+| years5 = 2017– | clubs5 = [[Les Herbiers VF|Les Herbiers]] | caps5 = 18 | goals5 = 1
+| club-update = 8 October 2018
+}}
+
+'''Claude Koutob Naoto''' (born December 26, 1995) is a [[Togo]]lese [[Association football|footballer]] currently playing for [[Les Herbiers VF]].
+
+==Club career==
+Koutob Naoto started his career in Togo with [[Gbikinti FC de Bassar|Gbikinti]] before moving to Tunisian side [[AS Marsa]] in 2014.&lt;ref&gt;{{cite web|url=http://www.africatopsports.com/2014/08/25/claude-koutob-togolais-rejoint-las-marsa/|title=Claude Koutob: Le Togolais Rejoint L'as Marsa|last=Lavon|first=Steve|date=25 August 2014|website=www.africatopsports.com|language=fr|archive-url=|archive-date=|dead-url=|accessdate=16 March 2016}}&lt;/ref&gt;
+
+After making two professional appearances in the [[Tunisian Ligue Professionnelle 1]],&lt;ref&gt;{{cite web|url=http://www.africatopsports.com/2014/10/20/claude-koutob-togolais-prend-ses-marques-en-tunisie/|title=Claude Koutob: Le Togolais Prend Ses Marques En Tunisie|last=Lavon|first=Steve|date=20 October 2014|website=www.africatopsports.com/|language=fr|archive-url=|archive-date=|dead-url=|accessdate=16 March 2016}}&lt;/ref&gt; Koutob Naoto left Marsa for French outfit [[Vendée Poiré-sur-Vie Football|Poiré-sur-Vie]].&lt;ref&gt;{{cite web|url=http://www.africatopsports.com/2015/12/11/charles-acolatse-lautre-togolais-du-poiree-sur-vie/|title=Charles Acolaste: L’autre Togolais Du Poirée Sur Vie|last=Lavon|first=Steve|date=11 December 2015|website=www.africatopsports.com|language=fr|archive-url=|archive-date=|dead-url=|accessdate=16 March 2016}}&lt;/ref&gt;
+
+==International career==
+Koutob Naoto was called up to the [[Togo national football team]] for a [[2014 FIFA World Cup qualification (CAF)|2014 World Cup qualification]] game against the [[DR Congo national football team|DR Congo]] on 8 September 2013. However, he never came off the bench.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/334458/statistics.html|title=Togo 2-1 DR Congo|last=|first=|date=8 September 2013|website=www.espnfc.com|publisher=ESPN|archive-url=|archive-date=|dead-url=|accessdate=16 March 2016}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|claude-koutob-naoto/312711|Claude Koutob Naoto}}
+* {{FootballDatabase.eu|245104|Claude Koutob Naoto}}
+
+{{DEFAULTSORT:Koutob, Claude}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Togolese footballers]]
+[[Category:Togo international footballers]]
+[[Category:Association football wingers]]
+[[Category:Gbikinti FC de Bassar players]]
+[[Category:AS Marsa players]]
+[[Category:Vendée Poiré-sur-Vie Football players]]
+[[Category:Les Herbiers VF players]]
+
+
+{{Togo-footy-bio-stub}}</text>
+      <sha1>jmdtoov7juo46gv7u7c4mr3cvg4acky</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nikolay Valeryevich Markov</title>
+    <ns>0</ns>
+    <id>42567296</id>
+    <redirect title="Nikolay Markov (footballer)" />
+    <revision>
+      <id>605513779</id>
+      <timestamp>2014-04-23T21:12:12Z</timestamp>
+      <contributor>
+        <username>HandsomeFella</username>
+        <id>12971673</id>
+      </contributor>
+      <comment>HandsomeFella moved page [[Nikolay Valeryevich Markov]] to [[Nikolay Markov (footballer)]]: People are more likely to know the basis of his notability than his middle name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Nikolay Markov (footballer)]]
+{{R from move}}</text>
+      <sha1>mtwrlfqb63icr0nqh3zrj5vadvhqbo1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kim Ik-Hee</title>
+    <ns>0</ns>
+    <id>42567297</id>
+    <redirect title="Kim Ik-hee" />
+    <revision>
+      <id>605513788</id>
+      <timestamp>2014-04-23T21:12:13Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Kim Ik-Hee]] to [[Kim Ik-hee]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Kim Ik-hee]]
+{{R from move}}</text>
+      <sha1>96pb5lmw7iy918go8xr4qj9x35ocu5g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Falcon 9 flight 12</title>
+    <ns>0</ns>
+    <id>42567299</id>
+    <redirect title="AsiaSat 6" />
+    <revision>
+      <id>784046630</id>
+      <parentid>709696113</parentid>
+      <timestamp>2017-06-06T04:49:43Z</timestamp>
+      <contributor>
+        <username>JFG</username>
+        <id>168812</id>
+      </contributor>
+      <minor />
+      <comment>JFG moved page [[Falcon 9 Flight 12]] to [[Falcon 9 flight 12]]: [[MOS:CAPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[AsiaSat 6]]
+
+[[Category:Falcon rocket launches]]</text>
+      <sha1>q1q7c5merfu2qm46dn2t5oaoed1pews</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Sculptures in Massachusetts</title>
+    <ns>14</ns>
+    <id>42567306</id>
+    <revision>
+      <id>797926301</id>
+      <parentid>635748513</parentid>
+      <timestamp>2017-08-30T00:14:07Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>-</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{commonscat|Sculptures in Massachusetts}}
+[[Category:Art in Massachusetts|S]]
+[[Category:Sculptures in the United States by state|Massachusetts]]</text>
+      <sha1>maok7drk54zwmgdujpunzv1tnwvzn3n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ryu Han-Su</title>
+    <ns>0</ns>
+    <id>42567311</id>
+    <redirect title="Ryu Han-su" />
+    <revision>
+      <id>605514048</id>
+      <timestamp>2014-04-23T21:14:01Z</timestamp>
+      <contributor>
+        <username>Mohsen1248</username>
+        <id>3761856</id>
+      </contributor>
+      <comment>Mohsen1248 moved page [[Ryu Han-Su]] to [[Ryu Han-su]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Ryu Han-su]]
+{{R from move}}</text>
+      <sha1>sybbvomiltgmft1krxu4gdfiuzoh4m3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tampa Shores, Florida</title>
+    <ns>0</ns>
+    <id>42567317</id>
+    <redirect title="Oldsmar, Florida" />
+    <revision>
+      <id>605514111</id>
+      <timestamp>2014-04-23T21:14:27Z</timestamp>
+      <contributor>
+        <username>NE2</username>
+        <id>1757249</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Oldsmar, Florida]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT[[Oldsmar, Florida]]</text>
+      <sha1>3t2zkrvjheaq8nndbybzi4k5ujea22f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tampa Shores, FL</title>
+    <ns>0</ns>
+    <id>42567318</id>
+    <redirect title="Oldsmar, Florida" />
+    <revision>
+      <id>605514113</id>
+      <timestamp>2014-04-23T21:14:28Z</timestamp>
+      <contributor>
+        <username>NE2</username>
+        <id>1757249</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Oldsmar, Florida]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT[[Oldsmar, Florida]]</text>
+      <sha1>3t2zkrvjheaq8nndbybzi4k5ujea22f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Little Shasta Church</title>
+    <ns>0</ns>
+    <id>42567319</id>
+    <revision>
+      <id>894145244</id>
+      <parentid>894141606</parentid>
+      <timestamp>2019-04-25T23:17:46Z</timestamp>
+      <contributor>
+        <username>Americanfreedom</username>
+        <id>7057734</id>
+      </contributor>
+      <comment>added [[Category:Wooden churches in the United States]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox church
+| name                   = Little Shasta Church
+| fullname               = 
+| other name             = 
+| native_name            = 
+| native_name_lang       = 
+| image                  = 
+| imagesize              = 
+| imagelink              = 
+| imagealt               = 
+| landscape              = 
+| caption                = 
+ 
+| pushpin map            = USA California
+| pushpin label position = none
+| pushpin map alt        = 
+| pushpin mapsize        = 
+| relief                 = 
+| map caption            = 
+| coordinates            = {{coord|41|42|39.9|N|122|23|23.1|W|display=inline,title}}
+| osgraw                 = &lt;!--  TEXT --&gt; 
+| osgridref              = &lt;!-- {{gbmappingsmall| TEXT}} --&gt; 
+| location               = [[Little Shasta, California]]
+| country                = United States
+ 
+| denomination           = 
+| previous denomination  = 
+| churchmanship          = 
+| membership             = 
+| attendance             = 
+| website                = &lt;!-- {{URL| example.com}} --&gt; 
+ 
+| former name            = Little Shasta Congregational Church
+| bull date              = 
+| founded date           = {{start date| 1875|}}
+| founder                = Roswell Graves
+| dedication             = 
+| dedicated date         = 
+| consecrated date       = 
+| cult                   = 
+| relics                 = 
+| events                 = 
+| past bishop            = 
+| people                 = 
+ 
+| status                 = 
+| functional status      = 
+| heritage designation   = 
+| designated date        = 
+| architect              = 
+| architectural type     = 
+| style                  = 
+| groundbreaking         = 1878&lt;ref&gt;{{cite book|title=National Geographic Traveler|publisher=National Geographic Society|date=1998}}&lt;/ref&gt;
+| completed date         = 
+| construction cost      = 
+| closed date            = 
+| demolished date        = 
+ 
+| capacity               = 
+| length                 = &lt;!-- {{convert| }} --&gt; 
+| width                  = &lt;!-- {{convert| }} --&gt; 
+| width nave             = &lt;!-- {{convert| }} --&gt; 
+| height                 = &lt;!-- {{convert| }} --&gt; 
+| diameter               = &lt;!-- {{convert| }} --&gt; 
+| other dimensions       = 
+| floor count            = 
+| floor area             = &lt;!-- {{convert| }} --&gt; 
+| dome quantity          = 
+| dome height outer      = &lt;!-- {{convert| }} --&gt; 
+| dome height inner      = &lt;!-- {{convert| }} --&gt; 
+| dome dia outer         = &lt;!-- {{convert| }} --&gt; 
+| dome dia inner         = &lt;!-- {{convert| }} --&gt; 
+| spire quantity         = 
+| spire height           = &lt;!-- {{convert| }} --&gt; 
+| materials              = 
+| bells                  = 
+| bells hung             = 
+| bell weight            = &lt;!-- {{CwtQtrLb to kg| }} --&gt; 
+ 
+| parish                 = 
+| deanery                = 
+| archdeaconry           = 
+| episcopalarea          = 
+| archdiocese            = 
+| metropolis             = 
+| diocese                = 
+| province               = 
+| presbytery             = 
+| synod                  = 
+| circuit                = 
+| district               = 
+| division               = 
+| subdivision            = 
+ 
+| archbishop             = 
+| bishop                 = 
+| dean                   = 
+| provost                = 
+| provost-rector         = 
+| viceprovost            = 
+| subdean                = 
+| precentor              = 
+| archpriest             = 
+| chancellor             = 
+| canonchancellor        = 
+| canon                  = 
+| canonmissioner         = 
+| canonpastor            = 
+| canontreasurer         = 
+| succentor              = 
+| archdeacon             = 
+| prebendary             = 
+| rector                 = 
+| vice-rector            = 
+| vicar                  = 
+| curate                 = 
+| priestincharge         = 
+| priest                 = 
+| asstpriest             = 
+| minister               = 
+| assistant              = 
+| honpriest              = 
+| deacon                 = 
+| deaconness             = 
+| seniorpastor           = 
+| pastor                 = 
+| abbot                  = 
+| chaplain               = 
+| sacristan              = 
+ 
+| reader                 = 
+| student intern         = 
+| organistdom            = 
+| director               = 
+| organist               = 
+| organscholar           = 
+| chapterclerk           = 
+| laychapter             = 
+| warden                 = 
+| verger                 = 
+| businessmgr            = 
+| liturgycoord           = 
+| reledu                 = 
+| rcia                   = 
+| youthmin               = 
+| flowerguild            = 
+| musicgroup             = 
+| parishadmin            = 
+| serversguild           = 
+ 
+| logo                   = 
+| logosize               = 
+| logolink               = 
+| logoalt                = 
+}}
+
+'''Little Shasta Church''' is a church located in [[Little Shasta, California]].
+
+==History==
+In 1875, after a series of meetings, Reverend Roswell Graves organized the church,&lt;ref&gt;{{cite book|title=The Pacific|publisher=J.W. Douglas|date=1909|volume=59}}&lt;/ref&gt; then known as Little Shasta Congregational Church,&lt;ref&gt;{{cite book|last=Mord|first=Jeanne|author2=Bette R. Mills |title=Sentinels of Love: Rural Churches of California|publisher=Fithian Press|date=1990|edition=illustrated}}&lt;/ref&gt; which was built in 1878.
+
+==References==
+{{Reflist}}
+
+[[Category:Churches in California]]
+[[Category:Buildings and structures in Siskiyou County, California]]
+[[Category:1875 establishments in California]]
+[[Category:Wooden churches in the United States]]
+
+
+{{California-church-stub}}</text>
+      <sha1>i89442mnacylt42r12u4s03nzhlcwve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Filton</title>
+    <ns>14</ns>
+    <id>42567320</id>
+    <revision>
+      <id>867855766</id>
+      <parentid>605514173</parentid>
+      <timestamp>2018-11-08T12:26:09Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor />
+      <comment>Robot - Moving category South Gloucestershire to [[:Category:South Gloucestershire District]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 October 28]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Commons category|Filton}}
+[[Category:South Gloucestershire District]]
+[[Category:Towns in Gloucestershire]]
+[[Category:Areas of Bristol]]
+[[Category:Wikipedia categories named after populated places in England]]</text>
+      <sha1>lbe0v8z44xjoitggxsxzf7e7ocb7ozb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mr Easy</title>
+    <ns>0</ns>
+    <id>42567328</id>
+    <redirect title="Mathews Mr Easy" />
+    <revision>
+      <id>778659519</id>
+      <parentid>646784812</parentid>
+      <timestamp>2017-05-04T14:14:27Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor />
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Redr}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mathews Mr Easy]]
+
+{{redirect category shell|{{R from short title}}{{R printworthy}}}}</text>
+      <sha1>0rnd13nhfb76moyseltuau7wxebibbz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mr. Easy</title>
+    <ns>0</ns>
+    <id>42567332</id>
+    <redirect title="Mathews Mr Easy" />
+    <revision>
+      <id>778654956</id>
+      <parentid>646784661</parentid>
+      <timestamp>2017-05-04T13:39:36Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor />
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Redr}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mathews Mr Easy]]
+
+{{redirect category shell|{{R from unsuitable title}}{{R unprintworthy}}|h=See '''{{-r|Mr Easy}}''' for printable redirect.}}</text>
+      <sha1>dei2xnjr4a6zhos5nb2z6lg1gg9b9az</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mathews Mr. Easy</title>
+    <ns>0</ns>
+    <id>42567334</id>
+    <redirect title="Mathews Mr Easy" />
+    <revision>
+      <id>605514418</id>
+      <timestamp>2014-04-23T21:16:54Z</timestamp>
+      <contributor>
+        <username>Ahunt</username>
+        <id>253891</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Mathews Mr Easy]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mathews Mr Easy]]</text>
+      <sha1>1mo4fbqpm4zbaze3rqo3fqmhpf0amh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Falcon 9 flight 13</title>
+    <ns>0</ns>
+    <id>42567335</id>
+    <redirect title="SpaceX CRS-4" />
+    <revision>
+      <id>784040340</id>
+      <parentid>709696192</parentid>
+      <timestamp>2017-06-06T03:46:23Z</timestamp>
+      <contributor>
+        <username>JFG</username>
+        <id>168812</id>
+      </contributor>
+      <minor />
+      <comment>JFG moved page [[Falcon 9 Flight 13]] to [[Falcon 9 flight 13]]: [[MOS:CAPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[SpaceX CRS-4]]
+
+[[Category:Falcon rocket launches]]</text>
+      <sha1>0xdy0uqol5vw8cwx4xiv49ow1t4edup</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Donyi-Poloism</title>
+    <ns>0</ns>
+    <id>42567336</id>
+    <redirect title="Donyi-Polo" />
+    <revision>
+      <id>605514463</id>
+      <timestamp>2014-04-23T21:17:12Z</timestamp>
+      <contributor>
+        <username>Aethelwolf Emsworth</username>
+        <id>18251141</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Donyi-Polo]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Donyi-Polo]]</text>
+      <sha1>jhx7aljs0hbj4y1e7rt4cexkc1kdsrf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Films scored by Ilaiyaraaja</title>
+    <ns>14</ns>
+    <id>42567337</id>
+    <revision>
+      <id>867657024</id>
+      <parentid>848812454</parentid>
+      <timestamp>2018-11-07T04:29:16Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>205121</id>
+      </contributor>
+      <minor />
+      <comment>Copying from [[Category:Films scored by Indian composers]] to [[Category:Film scores by composer]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{category explanation|films with musical scores composed by '''[[Ilaiyaraaja]]'''.}}
+
+{{CategoryTOC}}
+
+{{DEFAULTSORT:Ilayaraaja}}
+[[Category:Compositions by Ilaiyaraaja|Film scores]]
+[[Category:Films scored by Indian composers]]
+[[Category:Film scores by composer]]</text>
+      <sha1>p7hs268owf137utz6r4e8q0w29kaemm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Take Me to Church</title>
+    <ns>0</ns>
+    <id>42567340</id>
+    <revision>
+      <id>908849338</id>
+      <parentid>908055610</parentid>
+      <timestamp>2019-08-01T12:02:38Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 2 sources and tagging 0 as dead. #IABot (v2.0beta16) ([[User:Cyberpower678|Cyberpower678]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox song
+| name       = Take Me to Church
+| cover      = Hozier Take Me to Church.jpg
+| alt        =
+| type       = single
+| artist     = [[Hozier (musician)|Hozier]]
+| album      = [[Hozier (album)|Hozier]]
+| released   = {{Start date|2013|9|13|df=yes}}
+| format     = [[Music download|Digital download]]
+| recorded   = 2013
+| studio     =
+| venue      =
+| genre      = {{hlist|[[Indie rock]]|[[Soul music|soul]]|[[blues]]}}
+| length     = {{Duration|m=4|s=2}}&lt;ref&gt;{{cite web|url=https://itunes.apple.com/ie/artist/hozier/id342260741|title=iTunes – Music – Hozier|accessdate=April 28, 2015}}&lt;/ref&gt;
+| label      = {{hlist|[[Rubyworks Records|Rubyworks]]|[[Island Records|Island]]|[[Columbia Records|Columbia]]}}
+| writer     = [[Andrew Hozier-Byrne]]
+| producer   = Rob Kirwan
+| prev_title =
+| prev_year  =
+| next_title = [[From Eden]]
+| next_year  = 2014
+}}
+&quot;'''Take Me to Church'''&quot; is a song by [[Irish people|Irish]] musician [[Hozier (musician)|Hozier]]. It was released on his debut [[extended play]] (EP) and later his [[Hozier (album)|self-titled debut album]] (2014). The song was released as his debut single on 13 September 2013 as a free download. Hozier, a struggling musician at the time of its writing, wrote and recorded the song in the attic of his parents' home in [[Bray, County Wicklow, Ireland]]. A mid-tempo [[Soul music|soul]] song, its lyrics use religious terminology to describe a romantic relationship. The song first caught the attention of independent label [[Rubyworks Records|Rubyworks]], where producer [[Rob Kirwan]] overdubbed the original demo with live instruments. Only two musicians feature on the track: Andrew Hozier-Byrne ([[Hozier (musician)|Hozier]]) and drummer Fiachra Kinder.{{Citation needed|reason=album liner notes disagree|date=February 2017}}
+
+The song's [[music video]] has contributed to its widespread popularity. The clip, directed by [[Brendan Canty]] and Conal Thomson of small production company Feel Good Lost, follows the relationship between two men and the subsequent violent homophobic backlash. Upon its [[YouTube]] release in September 2013, the video quickly began to go [[Viral video|viral]], leading to Hozier's subsequent license with [[Columbia Records]] US and [[Island Records]] UK.
+
+In 2014, the song achieved widespread global popularity, topping the charts in 12 countries and reaching the top 10 in 21 other territories. Aided by music platforms [[Shazam (service)|Shazam]] and [[Spotify]] to become a rock radio hit in the US, the song spent 23 consecutive weeks at the top of the [[List of number-one Billboard Rock Songs|Hot Rock Songs]] chart, tied with [[Imagine Dragons]]{{'}} &quot;[[Radioactive (Imagine Dragons song)|Radioactive]]&quot; as the longest-running number-one in its chart-history (at the time), later crossing over to the all-genre [[Billboard Hot 100|''Billboard'' Hot 100]], where it peaked at number two in December 2014. The song was nominated for the [[Grammy Award for Song of the Year]] at the [[57th Annual Grammy Awards]]. The song has been certified [[RIAA certification|five times platinum]] in the US.
+
+On 16 April 2016, Hozier released the original ''Take Me Church EP'' on special edition 12-inch vinyl picture disc for [[Record Store Day]] UK; this was the first time the EP was available as a physical release.
+
+==Background==
+In 2013, Hozier was a struggling musician, often seen in [[Dublin]]-area open mic nights. During this period, he penned &quot;Take Me to Church&quot; at his parents' home in [[Bray, County Wicklow]], Ireland, and recorded a rough demo in their attic with a programmed backing track.&lt;ref name=rs&gt;{{cite journal| author=Andy Greene| date =January 29, 2015| title =Behind Hozier's Unlikely Rise| journal =[[Rolling Stone]] | location =New York City | issn =0035-791X | url =https://www.rollingstone.com/music/features/behind-hoziers-unlikely-rise-20150129| accessdate =February 8, 2015}}&lt;/ref&gt; He wrote the song after a bad breakup.&lt;ref name=observer&gt;{{cite journal| author= Rob LeDonne| date =October 10, 2014| title =For Hozier and 'Take Me To Church,' a Four-Year Overnight Success Story| journal =[[The New York Observer]] | issn = 1052-2948 | url =http://observer.com/2014/10/for-hozier-and-take-me-to-church-a-four-year-overnight-success-story/| accessdate =February 8, 2015}}&lt;/ref&gt; &quot;The vocals were recorded in my attic at 2 o'clock in the morning. So it's a real homemade job&quot;, he later remarked.&lt;ref name=nyt&gt;{{cite journal| author= Andrew R. Chow| date =November 21, 2014| title =Protesting Injustice, Accepting Fame| journal =[[The New York Times]] | issn = 1052-2948 | url =https://www.nytimes.com/2014/11/23/arts/music/hozier-on-protest-pop.html?_r=0| accessdate =February 8, 2015}}&lt;/ref&gt;
+
+It caught the attention of independent label [[Rubyworks Records|Rubyworks]], who paired him with producer Rob Kirwan. The song was overdubbed with live instrumentation, but the original demo vocals remained, as Kirwan found them &quot;powerful&quot; enough to remain.&lt;ref name=rs/&gt;
+
+For the Grammys, Hozier performed the song with [[Annie Lennox]], along with Annie's cover of &quot;[[I Put A Spell On You]]&quot;.
+
+==Lyrical interpretation==
+{{Listen
+| filename = Take Me to Church.ogg
+| title = &quot;Take Me to Church&quot;
+| description = A 24-second sample of &quot;Take Me to Church&quot; by Hozier, where a portion of the chorus is heard.
+| pos = left
+}}
+
+Lyrically, &quot;Take Me to Church&quot; is a metaphor, with the protagonist comparing his lover to religion. The song grew out of Hozier's frustration with the [[Catholic Church]]'s teachings which, although he himself was raised in the Protestant Quaker faith, dominated the social and political outlook of the Irish state.&lt;ref&gt;{{cite web|last1=O'Regan|first1=Brendan|title=RTÉ's new season is a mixed blessing|url=http://www.irishcatholic.ie/article/rt%C3%A9%E2%80%99s-new-season-mixed-blessing|website=The Irish Catholic|accessdate=27 May 2016|archive-url=https://web.archive.org/web/20160616183744/http://www.irishcatholic.ie/article/rt%C3%A9%E2%80%99s-new-season-mixed-blessing|archive-date=16 June 2016|dead-url=yes}}&lt;/ref&gt; &quot;Growing up, I always saw the hypocrisy of the Catholic church&quot;, Hozier said in an interview with ''[[Rolling Stone]]''. &quot;The history speaks for itself and I grew incredibly frustrated and angry. I essentially just put that into my words.&quot;&lt;ref name=rs/&gt;
+
+In an interview with ''[[The Irish Times]]'', Hozier stated,
+
+&lt;blockquote&gt;I found the experience of falling in love or being in love was a death, a death of everything. You kind of watch yourself die in a wonderful way, and you experience for the briefest moment–if you see yourself for a moment through their eyes–everything you believed about yourself gone. In a death-and-rebirth sense.&lt;ref&gt;{{cite news |url=http://www.irishtimes.com/blogs/poplife/2014/09/20/hozier |title=Hozier: An Interview |work= [[The Irish Times]] |date=20 September 2014 |accessdate=18 November 2014 |author=Mullally, Una}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+In an interview with ''[[New York (magazine)|New York]]'', he elaborated:
+
+&lt;blockquote&gt;Sexuality, and sexual orientation – regardless of orientation – is just natural. An act of sex is one of the most human things. But an organization like the church, say, through its doctrine, would undermine humanity by successfully teaching shame about sexual orientation – that it is sinful, or that it offends God. The song is about asserting yourself and reclaiming your humanity through an act of love.&lt;ref&gt;{{cite news |url=http://nymag.com/thecut/2014/03/qa-hozier-on-gay-rights-sex-good-hair.html |title=Q&amp;A: Hozier on Gay Rights, Sexuality, and Good Hair | work= [[NY Magazine]] |date=11 March 2014 |accessdate=17 December 2014}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+The song draws inspiration from [[atheist]] author [[Christopher Hitchens]] and paraphrases the poet [[Fulke Greville, 1st Baron Brooke|Fulke Greville]]'s verse &quot;Created sick, commanded to be sound&quot;.&lt;ref name=&quot;hitchens1&quot;&gt;{{cite web|url=https://www.theguardian.com/music/2014/jul/31/hozier-best-vocalists-female-take-me-to-church|title=Hozier: The best vocalists I can think of are female}}&lt;/ref&gt;&lt;ref name=&quot;hitchens2&quot;&gt;{{cite web|url=http://www.yucatanrecords.com/artist-of-the-week/hozier|title=Hozier|access-date=2014-11-27|archive-url=https://web.archive.org/web/20150221111204/http://www.yucatanrecords.com/artist-of-the-week/hozier|archive-date=2015-02-21|dead-url=yes}}&lt;/ref&gt;&lt;ref name=&quot;hitchens3&quot;&gt;{{cite web|url=https://www.telegraph.co.uk/culture/music/rockandpopfeatures/11259127/Hozier-interview-Im-a-gangly-introvert.html|title=Hozier Interview}}&lt;/ref&gt;
+
+==Commercial performance==
+{{Quote box
+ |quote  = I never wrote music for the mainstream. I think I was incredibly fortunate that the song crossed over and people connected with it. [[Spotify]] played a big role. It's a discovery platform and it's been invaluable to me over the past year.
+ |source = Hozier in 2015&lt;ref name=rs/&gt;
+ |quoted = 1
+ |width  = 25%
+ |align  = right
+}}
+
+The song rose in prominence alongside its viral music video, attracting A&amp;R representatives from major labels in a bidding war to sign Hozier. He was signed by Justin Eshak of Columbia Records, who later opined that the song became a hit due to a shift on pop radio, spearheaded by [[Sam Smith (singer)|Sam Smith]]: &quot;The music is connecting because when it gets on the air it's such a sharp juxtaposition to the existing material on top 40 radio.&quot;&lt;ref name=rs/&gt; The song first experienced chart success in his native Ireland, climbing the charts in October 2013 and eventually reached number two on [[Irish Singles Chart]].&lt;ref name=observer/&gt;
+
+In May 2014, Hozier performed the song on the ''[[Late Show with David Letterman]]''.&lt;ref&gt;{{cite news |url=http://www.independent.ie/entertainment/music/hozier-wows-us-on-david-letterman-with-rendition-of-take-me-to-church-30274220.html |title=Hozier wows US on David Letterman with rendition of Take Me to Church |work=[[Irish Independent]] |date=14 May 2014 |accessdate=20 June 2014}}&lt;/ref&gt; It was sent to US [[modern rock]] radio on 24 June 2014 by [[Columbia Records]].&lt;ref name=&quot;Alternative&quot;/&gt; It eventually reached number two on the [[Billboard Hot 100|''Billboard'' Hot 100]] for three consecutive weeks in December 2014 and January 2015, behind [[Taylor Swift]]'s &quot;[[Blank Space]]&quot;, while becoming his first top 10 single there.&lt;ref&gt;{{cite news |url=http://www.billboard.com/articles/columns/chart-beat/6327834/hot-100-taylor-swift-blank-space-meghan-trainor-hozier|title=Taylor Swift's 'Blank Space' No. 1 on Hot 100 for Second Week|work=[[Billboard (magazine)|Billboard]] |date=November 26, 2014 |accessdate=November 27, 2014}}&lt;/ref&gt; As of July 2015, the song has sold 4,270,000 copies in the US.&lt;ref name=us_sales&gt;{{cite web|archiveurl=https://web.archive.org/web/20150801063634/http://hitsdailydouble.com/news%26id%3D297039 |archivedate=August 1, 2015 |url=http://hitsdailydouble.com/news&amp;id=297039 |title=YTD Marketshare at the Seven-Month Mark |website=[[Hits (magazine)|HITS Daily Double]] |publisher=HITS Digital Ventures |date=July 31, 2015 |accessdate=August 1, 2015 |deadurl=yes |df= }}&lt;/ref&gt; The track has since reached top five in many other countries including peaking at number two in Australia, Canada, New Zealand, and the United Kingdom.
+
+The song initially attracted US attention in [[Nashville]] via an [[adult album alternative]] radio station. From there, it became the top song for the area on music identification application [[Shazam (service)|Shazam]], which led to its appearance on a local top 40 station. &quot;Take Me to Church&quot; achieved widespread popularity in the United States between the summer and fall of 2014.&lt;ref name=rs/&gt;
+
+Despite the song's popularity on YouTube, the song achieved more listens on [[Spotify]],&lt;ref name=&quot;spot&quot;&gt;{{cite web |url=http://www.billboard.com/biz/articles/news/digital-and-mobile/6327661/spotify-seems-to-be-gaining-on-youtubes-streaming | title=Spotify Seems to Be Gaining on YouTube's Streaming Dominance| author = William Gruger | work=[[Billboard (magazine)|Billboard]] | date = November 24, 2014 | accessdate = February 8, 2015}}&lt;/ref&gt; becoming the service's most-streamed song of 2014, achieving 87 million listens.&lt;ref name=&quot;spot1&quot;&gt;{{cite web |url=https://www.independent.co.uk/arts-entertainment/music/news/hoziers-take-me-to-church-is-the-most-streamed-song-of-2014-9915268.html | title=Hozier's 'Take Me To Church' named Spotify's most viral song of 2014| author = Roisin O'Connor | work=[[The Independent]] | date = December 10, 2014 | accessdate = February 8, 2015}}&lt;/ref&gt;
+
+==Music video==
+The concept for the &quot;Take Me to Church&quot; music video was the result of a collaboration between Hozier, Brendan Canty and his writing partner Emmet O'Brien.&lt;ref&gt;{{cite news |url=http://www.irishmirror.ie/whats-on/music-nightlife-news/man-behind-hoziers-take-church-6138156 |title=Man behind Hozier's Take Me To Church video hoping to crack the film industry after getting two nominations at the MTV VMAs |work= [[Irish Mirror]] |date=26 July 2015 |accessdate=30 July 2015 |author=Ward, James}}&lt;/ref&gt; It was directed by Brendan Canty and Conal Thomson of Feel Good Lost&lt;ref&gt;{{cite news|last1=Edwards|first1=Eoin|url=http://www.irishexaminer.com/lifestyle/artsfilmtv/take-me-to-fame-hoziers-cork-made-video-310955.html|newspaper=Irish Examiner|title=How a €1,500 video made in Cork made Hozier :the biggest name in music}}&lt;/ref&gt; and was released on 25 September 2013. The video, shot in [[grayscale]] on location at Inniscarra Dam in [[Cork (city)|Cork, Ireland]], follows a same-sex relationship in Russia and the violently homophobic backlash that ensues when the community learns of one of the men's sexuality. The video had a budget of 500 Euros.&lt;ref&gt;Murphy, Lauren (20 July 2014). &quot;Has the Internet Killed the Music Video?&quot; ''Sunday Times'' (London). p. 12.&lt;/ref&gt; The song went viral following its release. &quot;I remember someone texting me to say it was getting 10,000 views an hour&quot;, he recalled.&lt;ref name=rs/&gt; The song achieved 230,000 YouTube views within two weeks.&lt;ref name=nyt/&gt;
+
+Hozier stated, &quot;The song was always about humanity at its most natural, and how that is undermined ceaselessly by religious organizations and those who would have us believe they act in its interests. What [[LGBT rights in Russia|has been seen growing in Russia]] is no less than nightmarish. I proposed bringing these themes into the story and Brendan liked the idea.&quot;&lt;ref&gt;{{cite news |url=http://www.huffingtonpost.com/2013/09/26/hozier-take-me-to-church_n_3991405.html |title=Hozier's 'Take Me To Church' Echoes Russian LGBT Violence |work= [[The Huffington Post]] |date=26 September 2013 |accessdate=18 November 2014 |author=Nichols, James}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://state.ie/features/video-premiere-hozier-take-me-to-church |archive-url=https://web.archive.org/web/20130925204947/http://www.state.ie/features/video-premiere-hozier-take-me-to-church |dead-url=yes |archive-date=25 September 2013 |title=Video Premiere: Hozier – Take Me To Church |work=[[State (magazine)|State]] |date=25 September 2013 |accessdate=18 November 2014 |author=Udell, Phil }}&lt;/ref&gt;
+
+==Track listing==
+{{Track listing
+| headline = Digital download – single&lt;ref name=&quot;Single&quot;/&gt;
+| title1  = Take Me to Church
+| length1 = 4:01
+}}
+{{Track listing
+| headline = Digital download – EP&lt;ref name=&quot;EP&quot;/&gt;
+| title1  = Take Me to Church
+| length1 = 4:01
+
+| title2  = Like Real People Do
+| length2 = 3:17
+
+| title3  = Angel of Small Death &amp; the Codeine Scene
+| length3 = 3:38
+
+| title4  = Cherry Wine
+| note4   = Live
+| length4 = 3:59
+}}
+{{Track listing
+| headline = German CD single&lt;ref&gt;{{cite web|url=https://www.amazon.de/Take-Me-Church-2-Track-Hozier/dp/B00P7370AI |title=Take Me To Church (2-Track) |accessdate=2015-03-15 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20141221155114/http://www.amazon.de/Take-Me-Church-2-Track-Hozier/dp/B00P7370AI |archivedate=21 December 2014 |df= }}&lt;/ref&gt;
+| title1  = Take Me to Church
+| length1 = 4:01
+
+| title2  = Run
+| length2 = 3:17
+}}
+
+==Cover versions and use in media==
+* [[Matt McAndrew]] performed &quot;Take Me to Church&quot; on U.S. television program ''[[The Voice (U.S. TV series)|The Voice]]'' season 7 as his top 12 act. His cover peaked at number 5 on the [[iTunes]] charts and at number 92 on the ''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]].
+* The song was used in season 14 of the documentary series ''[[Intervention (TV series)|Intervention]]''.
+* The song was used in a commercial for [[Beats by Dre]] which featured [[LeBron James]]. The commercial showed James returning to his old high school in [[Akron, Ohio]].&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=YCOgaWSfxxs |title=Beats by Dre Presents: LeBron James in RE-ESTABLISHED 2014 |publisher=[[Beats by Dre]] |date=18 October 2014 |accessdate=18 October 2014}}&lt;/ref&gt;
+* The song was used in the 2nd to last episode of the final season of [[Glee (TV series)|Glee]], sung by ‘Roderick Meeks’, played by singer Noah Guthrie in March 2015.
+* [[Ellie Goulding]] posted a cover of &quot;Take Me to Church&quot; on her official YouTube channel.&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=yDtR8sn4z-A |title=Ellie Goulding – Take Me To Church (Hozier cover) |publisher=[[Ellie Goulding]] |date=12 March 2015 |accessdate=27 November 2015}}&lt;/ref&gt; The cover was featured in the ''[[Supergirl (TV series)|Supergirl]]'' episode &quot;[[Livewire (Supergirl)|Livewire]]&quot;.
+* [[Demi Lovato]] performed the song live from [[Live Lounge]].&lt;ref&gt;{{cite web|url=https://www.apra.com.au/cms/worksearch/worksearch.srvlt#|title=Take Me to Church – APRA ID: GW45085675|accessdate=June 26, 2016}}&lt;/ref&gt;
+* The song was used in the closing credits of the third episode of the first season of ''[[The Leftovers (TV series)|The Leftovers]]''.
+* The song was featured in premiere series ''[[iZombie (TV series)|iZombie]]'' in its fourth season, Episode Two &quot;[[Brother, Can You Spare a Brain?]]&quot;.
+* India Carney performed this song on U.S. television program ''[[The Voice (U.S. TV series)|The Voice]]'' season 8 as her Top 12 act.
+* Amber Galloway Gallego performed an ASL version of the song &lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=5l09GAMCy64|title=Take Me to Church ASL Cover|accessdate=2017-10-28}}&lt;/ref&gt;
+* Industrial metal band [[Vampires Everywhere!]] released a cover of the song in their 2016 album &quot;[[Ritual (Vampires Everywhere! album)]]&quot;, featuring [[Chelsea Grin]] vocalist Alex Koehler.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=S4ONNATQdt4|title=Vampires Everywhere! - Take Me To Church Feat. Alex Koehler|first=|last=VAMPIRES EVERYWHERE|date=19 January 2016|publisher=|accessdate=2 April 2018|via=YouTube}}&lt;/ref&gt;
+* [[Morgan James]] performed a cover version arranged by [[Scott Bradlee]] on the [[Postmodern Jukebox]] YouTube channel.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=9C0xGB73Uuc|title=Take Me To Church – Piano / Vocal Hozier Cover ft. Morgan James |accessdate=2017-01-31}}&lt;/ref&gt;
+* Wé McDonald performed this song on U.S. television program ''[[The Voice (U.S. TV series)|The Voice]]'' season 11 as her Top 12 act.
+* [[Sergei Polunin]] danced to the song, directed by [[David LaChapelle]].&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=c-tW0CkvdDI|title=Sergei Polunin, &quot;Take Me to Church&quot; by Hozier, Directed by David LaChapelle}}&lt;/ref&gt;
+* Several artists have covered this song, including YouTube star [[Jasmine Thompson]] and Broadway actress [[Lena Hall]].
+* The song was used in [[Supernatural (season 10)|season 10]] of ''[[Supernatural (U.S. TV series)|Supernatural]]'', in episode 13 &quot;[[Supernatural (season 10)|Halt and Catch Fire]]&quot;.
+*The song was used in commercials for the 2014 TV series ''[[Constantine (TV series)|Constantine]]'' on NBC.
+*In early 2017 [[Napalm Records]] released a cover, with a video, by metal band [[The Agonist]].
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class=&quot;wikitable sortable plainrowheaders&quot; style=&quot;text-align:center&quot;
+|-
+! Chart (2013–15)
+! Peak&lt;br /&gt;position
+|-
+{{singlechart|Australia|2|artist=Hozier|song=Take Me To Church|rowheader=true|accessdate=3 January 2015}}
+|-
+{{singlechart|Austria|1|artist=Hozier|song=Take Me To Church|rowheader=true|accessdate=10 November 2014}}
+|-
+{{singlechart|Flanders|1|artist=Hozier|song=Take Me To Church|accessdate=23 August 2014|rowheader=true}}
+|-
+{{singlechart|Wallonia|2|artist=Hozier|song=Take Me To Church|accessdate=22 January 2015|rowheader=true}}
+|-
+{{singlechart|Canada|2|artist=Hozier|accessdate=11 December 2014|rowheader=true}}
+|-
+{{singlechart|Billboardcanadaac|4|artist=Hozier|accessdate=11 December 2014|rowheader=true}}
+|-
+{{singlechart|Billboardcanadachrtop40|2|artist=Hozier|accessdate=11 December 2014|rowheader=true}}
+|-
+{{singlechart|Billboardcanadahotac|1|artist=Hozier|accessdate=11 December 2014|rowheader=true}}
+|-
+{{singlechart|Billboardcanadarock|13|artist=Hozier|accessdate=20 October 2014|rowheader=true}}
+|-
+! scope=&quot;row&quot;| Colombia ([[National-Report Top Rock]])&lt;ref&gt;{{cite web|url=http://www.national-report.com/generosColombia.php|archiveurl=https://web.archive.org/web/20150507211631/http://www.national-report.com/generosColombia.php|title=ROCK|date=27 April 2015|archivedate=7 May 2015|publisher= [[National-Report]]|language=Spanish}}&lt;/ref&gt;
+| style=&quot;text-align:center;&quot;|1
+|-
+{{singlechart|Czech Republic|1|year=2015|week=04|rowheader=true|accessdate=1 December 2014}}
+|-
+{{singlechart|Czechdigital|1|year=2014|week=50|rowheader=true|accessdate=16 December 2014}}
+|-
+{{singlechart|Denmark|4|artist=Hozier|song=Take Me To Church|accessdate=11 September 2014|rowheader=true}}
+|-
+! scope=&quot;row&quot;| Dominican Republic([[Monitor Latino]])&lt;ref&gt;{{cite web|title=Charts monitorLATINO|url=http://www.monitorlatino.com/mondayChartsConsult_History.aspx?year=2015&amp;mes=3&amp;semana=12&amp;formato=4&amp;pais=3|accessdate=28 February 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150402095716/http://www.monitorlatino.com/mondayChartsConsult_History.aspx?year=2015&amp;mes=3&amp;semana=12&amp;formato=4&amp;pais=3|archivedate=2 April 2015|df=}}&lt;/ref&gt;
+| style=&quot;text-align:center;&quot;|2
+|-
+{{singlechart|Billboardeurodigital|2|artist=Hozier|song=Take Me To Church|accessdate=24 July 2015|rowheader=true}}
+|-
+{{singlechart|Finland|4|artist=Hozier|song=Take Me To Church|accessdate=26 February 2015|rowheader=true}}
+|-
+{{singlechart|France|2|artist=Hozier|song=Take Me To Church|accessdate=26 February 2015|rowheader=true}}
+|-
+{{singlechart|Germany2|2|songid=1200169|artist=Hozier|song=Take Me To Church|accessdate=20 February 2019|rowheader=true}}
+|-
+! scope=&quot;row&quot;| Greece Digital Songs (''[[Billboard (magazine)|Billboard]]'')&lt;ref&gt;{{cite web |url=http://www.billboard.com/artist/6059764/Hozier/chart?f=801 |title=Hozier Album &amp; Song Chart History |work=[[Billboard charts|Billboard]] Greece Digital Songs for Hozier |accessdate=12 December 2014}}&lt;/ref&gt;
+| style=&quot;text-align:center;&quot;| 1
+|-
+{{singlechart|Hungary|37|artist=Hozier|song=Take Me To Church|week=5|year=2015|accessdate=5 February 2015|rowheader=true}}
+|-
+{{singlechart|Hungarytop10|1|artist=Hozier|song=Take Me To Church|week=6|year=2015|accessdate=12 February 2015|rowheader=true}}
+|-
+! scope=&quot;row&quot;|Iceland (Tonlist Lagalistinn)&lt;ref&gt;{{cite web |url=http://www.tonlist.is/Music/ChartList.aspx?ID=267 |title=Archived copy |accessdate=2014-10-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20141009141410/http://www.tonlist.is/Music/ChartList.aspx?ID=267 |archivedate=2014-10-09 |df= }}&lt;/ref&gt;
+|text align=&quot;center&quot;|1
+|-
+!scope=&quot;row&quot;|India ([[Radio Mirchi|Angrezi Top 20]])&lt;ref&gt;{{cite web |url=http://timesof
