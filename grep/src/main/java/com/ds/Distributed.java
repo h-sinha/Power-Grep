@@ -6,10 +6,8 @@ import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.util.Random;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
-import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
@@ -17,11 +15,9 @@ import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
-import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
-import org.apache.hadoop.mapreduce.lib.map.InverseMapper;
 import org.apache.hadoop.mapreduce.lib.map.RegexMapper;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
-import org.apache.hadoop.mapreduce.lib.output.SequenceFileOutputFormat;
+import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
@@ -118,16 +114,13 @@ public class Distributed extends Configured implements Tool {
     }
   }
 
-  // TODO: Handle folder preprocess
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
-    // TODO: Determing numSplit value
     sourceSize = raf.length();
     numSplits = (sourceSize + 1000000 - 1) / 1000000;
     bytesPerSplit = sourceSize / numSplits;
     remainingBytes = sourceSize % numSplits;
 
-    // TODO: max buffer size flushed at a time
     int maxReadBufferSize = 8 * 1024; //8KB
     int flag = 0;
     BufferedOutputStream bw = new BufferedOutputStream(new FileOutputStream(path + "1234"));
@@ -216,10 +209,6 @@ public class Distributed extends Configured implements Tool {
     pos.createNewFile();
     posWriter = new FileWriter("dis-positions.txt");
 
-    Path tempDir =
-        new Path("grep-temp-" +
-            Integer.toString(new Random().nextInt(Integer.MAX_VALUE)));
-
     Configuration conf = getConf();
     conf.set(RegexMapper.PATTERN, args[2]);
     if (args.length == 4) {
@@ -240,30 +229,13 @@ public class Distributed extends Configured implements Tool {
       grepJob.setCombinerClass(GReducer.class);
       grepJob.setReducerClass(GReducer.class);
 
-      FileOutputFormat.setOutputPath(grepJob, tempDir);
-      grepJob.setOutputFormatClass(SequenceFileOutputFormat.class);
+      FileOutputFormat.setOutputPath(grepJob, new Path(args[1]));
+      grepJob.setOutputFormatClass(TextOutputFormat.class);
       grepJob.setOutputKeyClass(Text.class);
       grepJob.setOutputValueClass(LongWritable.class);
 
       grepJob.waitForCompletion(true);
-
-      Job sortJob = Job.getInstance(conf);
-      sortJob.setJobName("grep-sort");
-      sortJob.setJarByClass(Distributed.class);
-
-      FileInputFormat.setInputPaths(sortJob, tempDir);
-      sortJob.setInputFormatClass(SequenceFileInputFormat.class);
-
-      sortJob.setMapperClass(InverseMapper.class);
-
-      sortJob.setNumReduceTasks(1);
-      FileOutputFormat.setOutputPath(sortJob, new Path(args[1]));
-      sortJob.setSortComparatorClass(
-          LongWritable.DecreasingComparator.class);
-
-      sortJob.waitForCompletion(true);
     } finally {
-      FileSystem.get(conf).delete(tempDir, true);
       File f = new File(args[0]);
       f.delete();
       posWriter.close();

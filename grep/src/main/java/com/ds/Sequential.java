@@ -5,12 +5,9 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Arrays;
-import org.apache.hadoop.conf.Configuration;
-import org.apache.hadoop.util.ToolRunner;
 
 public class Sequential {
+
   static FileWriter posWriter;
 
   /**
@@ -46,7 +43,7 @@ public class Sequential {
       }
       if (patternIter == pattern_.length()) {
         counter++;
-        posWriter.write(offset-pattern_.length() + " ");
+        posWriter.write(offset - pattern_.length() + " ");
         patternIter = lps[patternIter - 1];
       }
     }
@@ -83,7 +80,7 @@ public class Sequential {
     File pos = new File("seq-positions.txt");
     pos.createNewFile();
     posWriter = new FileWriter("seq-positions.txt");
-    System.out.println(search(args[2], args[0]) + "\t" + args[2]);
+    System.out.println(args[2] + "\t" + search(args[2], args[0]));
     posWriter.close();
   }
 }
