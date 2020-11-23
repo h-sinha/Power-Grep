@@ -15,13 +15,13 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
 import org.apache.hadoop.mapreduce.lib.map.InverseMapper;
 import org.apache.hadoop.mapreduce.lib.map.RegexMapper;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.SequenceFileOutputFormat;
-import org.apache.hadoop.mapreduce.lib.reduce.LongSumReducer;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
@@ -100,6 +100,21 @@ public class Distributed extends Configured implements Tool {
         }
       }
       context.write(new Text(_pattern), new LongWritable(counter));
+    }
+  }
+
+  public static class GReducer<K> extends Reducer<K, LongWritable, K, LongWritable> {
+
+    private LongWritable result = new LongWritable();
+
+    public void reduce(K key, Iterable<LongWritable> values, Context context)
+        throws IOException, InterruptedException {
+      long sum = 0;
+      for (LongWritable val : values) {
+        sum += val.get();
+      }
+      result.set(sum);
+      context.write(key, result);
     }
   }
 
@@ -222,8 +237,8 @@ public class Distributed extends Configured implements Tool {
 
       grepJob.setMapperClass(GMapper.class);
 
-      grepJob.setCombinerClass(LongSumReducer.class);
-      grepJob.setReducerClass(LongSumReducer.class);
+      grepJob.setCombinerClass(GReducer.class);
+      grepJob.setReducerClass(GReducer.class);
 
       FileOutputFormat.setOutputPath(grepJob, tempDir);
       grepJob.setOutputFormatClass(SequenceFileOutputFormat.class);
