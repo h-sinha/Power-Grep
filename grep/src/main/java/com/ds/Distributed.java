@@ -1,14 +1,11 @@
 package com.ds;
 
-import static java.lang.StrictMath.max;
-
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.util.ArrayList;
 import java.util.Random;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -78,7 +75,6 @@ public class Distributed extends Configured implements Tool {
       byte b;
       int patternIter = 0, idx = 0;
       long counter = 0;
-      System.out.println(key + " "+ value);
       long offset = Long.parseLong(key.toString());
       long lineNumber =
           (Long.parseLong(key.toString()) - pattern.length - 1) / (bytesPerSplit + pattern.length);
@@ -165,6 +161,16 @@ public class Distributed extends Configured implements Tool {
         if (val != -1) {
           bw.write(buf_pref);
           bw.write((byte) '\n');
+          bw.write(buf_pref);
+        }
+      } catch (Exception e) {
+
+      }
+    } else {
+      try {
+        byte[] buf_pref = new byte[(int) pattern_length - 1];
+        val = raf.read(buf_pref);
+        if (val != -1) {
           bw.write(buf_pref);
         }
       } catch (Exception e) {
