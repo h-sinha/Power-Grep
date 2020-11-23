@@ -78,10 +78,8 @@ public class Distributed extends Configured implements Tool {
       byte b;
       int patternIter = 0, idx = 0;
       long counter = 0;
+      System.out.println(key + " "+ value);
       long offset = Long.parseLong(key.toString());
-      if (Long.parseLong(key.toString()) <= pattern.length + 1) {
-        return;
-      }
       long lineNumber =
           (Long.parseLong(key.toString()) - pattern.length - 1) / (bytesPerSplit + pattern.length);
       while (idx < line.length) {
@@ -113,8 +111,8 @@ public class Distributed extends Configured implements Tool {
   public static String preprocess(String path, long pattern_length) throws IOException {
     RandomAccessFile raf = new RandomAccessFile(path, "r");
     // TODO: Determing numSplit value
-    numSplits = 3;
     sourceSize = raf.length();
+    numSplits = (sourceSize + 1000000 - 1) / 1000000;
     bytesPerSplit = sourceSize / numSplits;
     remainingBytes = sourceSize % numSplits;
 
