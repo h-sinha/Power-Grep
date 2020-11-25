@@ -87,7 +87,6 @@ public class Distributed extends Configured implements Tool {
           if (b == pattern[patternIter]) {
             patternIter++;
           }
-
         }
         if (patternIter == pattern.length) {
           counter++;
@@ -211,9 +210,6 @@ public class Distributed extends Configured implements Tool {
 
     Configuration conf = getConf();
     conf.set(RegexMapper.PATTERN, args[2]);
-    if (args.length == 4) {
-      conf.set(RegexMapper.GROUP, args[3]);
-    }
 
     Job grepJob = Job.getInstance(conf);
 
