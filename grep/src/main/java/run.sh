@@ -1,3 +1,4 @@
+unzip enwiki-latest-pages-articles26.zip
 rm dis-positions.txt
 rm seq-positions.txt
 rm -rf out1
